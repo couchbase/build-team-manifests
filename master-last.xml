@@ -6,7 +6,6 @@
   
   <project name="couchdb" revision="961ad59933059de245697531df70d92d1bf17c47" upstream="master" />
   <project name="couchdbx-app" revision="817d29fff823115a58f506b984ec9cea10a12ad9" upstream="master" />
-  <project name="couchstore" path="cmake/couchstore" revision="a721851ee898229fc4a854876fbfa0a032b53450" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="68f060226baf485ada022a354afcdfe14025b933" upstream="master" />
   <project name="geocouch" revision="a8ba56cd6382d3323278d04ef4a7fad609981a15" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="674de488b308eb6e065fd6cd9e115fabfb7e92ed" upstream="master" />
@@ -28,4 +27,5 @@
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="027b550b6aead802388aa8bba82629ffa77d900e" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
+  <project name="couchstore" path="cmake/couchstore" revision="de2c4fd29add0ff8d8ae4dbe69856f9e40e2c4a6" upstream="master" />
   </manifest>
