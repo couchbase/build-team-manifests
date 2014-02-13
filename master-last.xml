@@ -25,7 +25,7 @@
 <project name="cbsasl" path="cmake/cbsasl" revision="5c7f8470a4fdab529e6366bc5f64264544000dd4" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
-  <project name="couchstore" path="cmake/couchstore" revision="de2c4fd29add0ff8d8ae4dbe69856f9e40e2c4a6" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="c44d8096f65a8616b9e23ac0fa0d0390822480c5" upstream="master" />
   <project name="couchdb" revision="8bd7fdaa89ec5d97d95034182f4db9913f74fa32" upstream="master" />
+  <project name="couchstore" path="cmake/couchstore" revision="24a42692975e9b588ace132c358bc6ed9b68b37f" upstream="master" />
   </manifest>
