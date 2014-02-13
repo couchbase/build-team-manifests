@@ -5,7 +5,6 @@
   <default remote="couchbase" revision="master" />
   
   <project name="couchdbx-app" revision="817d29fff823115a58f506b984ec9cea10a12ad9" upstream="master" />
-  <project name="libconflate" path="cmake/libconflate" revision="5c2d0c6c4624ca45e34caf33bb99a7dae9d4e173" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="149b8deef5d56e80afe1e8a4db223ad6f331077f" upstream="cmake" />
   <project name="libvbucket" path="cmake/libvbucket" revision="f9af22f8f3bfcdf716e61333ac080f2e5d9bdda3" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="2c6b8128cb4730b4ead60c5b1dbcc1c770139f5b" upstream="master" />
@@ -28,4 +27,5 @@
   <project name="ep-engine" path="cmake/ep-engine" revision="1f480a200739e09b30b3850368a2bee68b92c612" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
+  <project name="libconflate" path="cmake/libconflate" revision="288e0c695f381ece9f1525ca32d7809f30aba1a5" upstream="master" />
   </manifest>
