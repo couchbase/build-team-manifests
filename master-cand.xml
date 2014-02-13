@@ -14,8 +14,8 @@
   <project name="ep-engine" path="cmake/ep-engine" revision="68f060226baf485ada022a354afcdfe14025b933" upstream="master" />
   <project name="geocouch" revision="a8ba56cd6382d3323278d04ef4a7fad609981a15" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="674de488b308eb6e065fd6cd9e115fabfb7e92ed" upstream="master" />
-  <project name="libconflate" path="cmake/libconflate" revision="288e0c695f381ece9f1525ca32d7809f30aba1a5" upstream="master" />
-  <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="149b8deef5d56e80afe1e8a4db223ad6f331077f" upstream="cmake" />
+  <project name="libconflate" path="cmake/libconflate" revision="5c2d0c6c4624ca45e34caf33bb99a7dae9d4e173" upstream="master" />
+  <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
   <project name="libvbucket" path="cmake/libvbucket" revision="f9af22f8f3bfcdf716e61333ac080f2e5d9bdda3" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="2c6b8128cb4730b4ead60c5b1dbcc1c770139f5b" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="104d60aeead418fa66fbc0e085dde43d4c18e1fb" upstream="master" />
