@@ -4,6 +4,7 @@
   
   <default remote="couchbase" revision="master" />
   
+  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="c44d8096f65a8616b9e23ac0fa0d0390822480c5" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
@@ -22,10 +23,9 @@
   <project name="platform" path="cmake/platform" revision="75a175c541cd36722e77dbf28d8fde83f4737a79" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="cf60238e2a511999ac42721ce3e2d0b490777f34" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
+  <project name="testrunner" revision="b9cdf169ae832d37d51101f1fe7894a1afc123c1" upstream="master" />
   <project name="tlm" revision="b0b57c9885191994fdc970449c41ae0ea929a281" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="testrunner" revision="b9cdf169ae832d37d51101f1fe7894a1afc123c1" upstream="master" />
-  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
-  </manifest>
+</manifest>
