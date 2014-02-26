@@ -9,7 +9,7 @@
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
   <project name="couchdb" revision="aff1b0ec352477bcb1a5e695b1aee7a8fc515520" upstream="master" />
-  <project name="couchdbx-app" revision="817d29fff823115a58f506b984ec9cea10a12ad9" upstream="master" />
+  <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="eabb282928c161269f31a08b339be5caf8649e0d" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="7f6a4fd05865d807e7734945bbae94d56f54158d" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
