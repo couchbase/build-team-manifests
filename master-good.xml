@@ -17,7 +17,7 @@
   <project name="libconflate" path="cmake/libconflate" revision="288e0c695f381ece9f1525ca32d7809f30aba1a5" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
   <project name="libvbucket" path="cmake/libvbucket" revision="8d2c92d5ed7c50aa957dbe1a56e42141196d39cd" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="5e2eff65b9bdab31c15ae1286b95aa3b5a4b9d00" upstream="master" />
+  <project name="memcached" path="cmake/memcached" remote="membase" revision="83039fe475aacbdf4aab7101ecd8450ed35c297d" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="c53cc2bc6071b6ef57790a087b6f482eeef3e5df" upstream="master" />
   <project name="ns_server" revision="e6f23f96ca320672319b7c84b0846300fc0734fd" upstream="master" />
   <project name="platform" path="cmake/platform" revision="75a175c541cd36722e77dbf28d8fde83f4737a79" upstream="master" />
