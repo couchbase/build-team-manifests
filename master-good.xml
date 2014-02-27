@@ -20,7 +20,7 @@
   <project name="memcached" path="cmake/memcached" remote="membase" revision="b877886dbf2506eee2df1d4a8ee51e100c986f6e" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="c53cc2bc6071b6ef57790a087b6f482eeef3e5df" upstream="master" />
   <project name="ns_server" revision="e6f23f96ca320672319b7c84b0846300fc0734fd" upstream="master" />
-  <project name="platform" path="cmake/platform" revision="75a175c541cd36722e77dbf28d8fde83f4737a79" upstream="master" />
+  <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="cf60238e2a511999ac42721ce3e2d0b490777f34" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
   <project name="testrunner" revision="b9cdf169ae832d37d51101f1fe7894a1afc123c1" upstream="master" />
