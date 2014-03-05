@@ -13,7 +13,6 @@
   <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
-  <project name="couchstore" path="cmake/couchstore" revision="11c26e8ec812304a92ef4f7d0f4f2b8dac6d8d30" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="9b325202b94fcfc8374b8b3c55b89bd60bd20201" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b9c2b883af2a8f16fb1d9d30b7b2a58a1194656a" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
@@ -28,4 +27,5 @@
   <project name="ns_server" revision="a9b5ba5dc17507a06b970556a68331730d107c76" upstream="master" />
   <project name="testrunner" revision="95970f03068c89a53ace116a86b285ab52582a4f" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="b97572f06c18a73e2028b94315e07a551b77ad48" upstream="master" />
+  <project name="couchstore" path="cmake/couchstore" revision="2ba0189c10a38c4310c8b6877324ede5ade2018f" upstream="master" />
   </manifest>
