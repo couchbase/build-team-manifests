@@ -25,7 +25,7 @@
   <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="ce501b8d80b4b5881c230c7d14ebf407fb5d0ad5" upstream="master" />
   <project name="ns_server" revision="a9b5ba5dc17507a06b970556a68331730d107c76" upstream="master" />
-  <project name="testrunner" revision="95970f03068c89a53ace116a86b285ab52582a4f" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="069ab01c5e757e6b982f99dfd58a85054bca8b4a" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="dc34f4fd68d6e8e85954b3be24e52a301772d00b" upstream="master" />
+  <project name="testrunner" revision="9aa543d74f679b00b48a395b36d68f4de57a1935" upstream="master" />
   </manifest>
