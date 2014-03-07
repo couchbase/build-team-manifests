@@ -27,5 +27,5 @@
   <project name="testrunner" revision="ce9f6deff114274ca908bc3cef0ec7a781aa3d1e" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="51f7556c170951a4a3a669c73338151cb0f03d70" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="7d8af6a148a8952be30e90a0dd9c9c7fde312a90" upstream="master" />
-  <project name="ns_server" revision="5e807bca97283eaecab226a7084e8d25648ad28f" upstream="master" />
+  <project name="ns_server" revision="9c5f70849a2e1b487d7b3c6675798175e87b0433" upstream="master" />
   </manifest>
