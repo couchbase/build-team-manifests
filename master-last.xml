@@ -23,9 +23,9 @@
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="84675cc0a32eea4384060ae40af9a9f6aaf02390" upstream="master" />
   <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="768f6bff47c96fa63061c35fe69fb1cca346ea30" upstream="master" />
   <project name="tlm" revision="e9c1b65ce0bad87a3a6e3e7e8e9cca2e7da0b258" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-</manifest>
+<project name="memcached" path="cmake/memcached" remote="membase" revision="fbc3655c2837da3e916ad45791a8c1af8f6818ed" upstream="master" />
+  </manifest>
