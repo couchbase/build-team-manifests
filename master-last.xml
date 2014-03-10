@@ -27,5 +27,5 @@
   <project name="couchstore" path="cmake/couchstore" revision="290dcd61cf7572dd76a21a299d4aed75c1c99d81" upstream="master" />
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="84675cc0a32eea4384060ae40af9a9f6aaf02390" upstream="master" />
-  <project name="testrunner" revision="f339e5c32f20e663dec39aca9d00d446f677736c" upstream="master" />
+  <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
   </manifest>
