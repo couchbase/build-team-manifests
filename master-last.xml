@@ -24,8 +24,8 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="ep-engine" path="cmake/ep-engine" revision="24e9a1dfd92bdec95df16c5395078e35ffdec552" upstream="master" />
-  <project name="ns_server" revision="c3b78fbc7442625ddfa40aaf543ec5115555a45d" upstream="master" />
+<project name="ns_server" revision="c3b78fbc7442625ddfa40aaf543ec5115555a45d" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="f3bdecf3f927b8c317d21e6e3b66ed57e7099f03" upstream="master" />
   <project name="testrunner" revision="bf09b053dfd84937cb8357761f3b0de7a55800a1" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="f48e1c2315753576060ad0cc5683027605747931" upstream="master" />
   </manifest>
