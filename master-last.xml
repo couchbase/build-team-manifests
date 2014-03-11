@@ -25,7 +25,7 @@
   </project>
 <project name="memcached" path="cmake/memcached" remote="membase" revision="f3bdecf3f927b8c317d21e6e3b66ed57e7099f03" upstream="master" />
   <project name="testrunner" revision="bf09b053dfd84937cb8357761f3b0de7a55800a1" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="f48e1c2315753576060ad0cc5683027605747931" upstream="master" />
   <project name="ns_server" revision="32e720c1feac6337750db40c235742edc295338e" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="29849d037a847ffb933187568449f511d70d2275" upstream="master" />
   </manifest>
