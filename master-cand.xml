@@ -17,13 +17,13 @@
   <project name="libconflate" path="cmake/libconflate" revision="9b325202b94fcfc8374b8b3c55b89bd60bd20201" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
   <project name="libvbucket" path="cmake/libvbucket" revision="09345f9f436f3cf9592cc370ab7ec293082a0741" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="5b77ce937d9c75ff41c01e59e2a4bca3b903f670" upstream="master" />
+  <project name="memcached" path="cmake/memcached" remote="membase" revision="b877886dbf2506eee2df1d4a8ee51e100c986f6e" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b9c2b883af2a8f16fb1d9d30b7b2a58a1194656a" upstream="master" />
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
   <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
-  <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
+  <project name="testrunner" revision="a5ae4f750a74cb47438a99156753117610f1e1bc" upstream="master" />
   <project name="tlm" revision="e9c1b65ce0bad87a3a6e3e7e8e9cca2e7da0b258" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
