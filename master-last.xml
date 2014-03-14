@@ -26,6 +26,6 @@
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="memcached" path="cmake/memcached" remote="membase" revision="5b77ce937d9c75ff41c01e59e2a4bca3b903f670" upstream="master" />
-  <project name="testrunner" revision="2e92ac1c71c51d9263b6c13f7f4fa50d82b85688" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="8a12f83dc7d82fee5c9e70ee2f86aff4be469e53" upstream="master" />
+  <project name="testrunner" revision="3e9c4791d15a61a5b8510c7c783df3dba26dfb8a" upstream="master" />
   </manifest>
