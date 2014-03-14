@@ -27,5 +27,5 @@
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="memcached" path="cmake/memcached" remote="membase" revision="5b77ce937d9c75ff41c01e59e2a4bca3b903f670" upstream="master" />
-  <project name="testrunner" revision="6361f3973a9cbc3cb2dc642116a752cee061d083" upstream="master" />
+  <project name="testrunner" revision="2e92ac1c71c51d9263b6c13f7f4fa50d82b85688" upstream="master" />
   </manifest>
