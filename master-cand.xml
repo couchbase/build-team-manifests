@@ -23,8 +23,8 @@
   <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
-  <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
-  <project name="tlm" revision="64fc9b2137c9f4fa82b3d3a5064e3b5e16151924" upstream="master">
+  <project name="testrunner" revision="a5ae4f750a74cb47438a99156753117610f1e1bc" upstream="master" />
+  <project name="tlm" revision="e9c1b65ce0bad87a3a6e3e7e8e9cca2e7da0b258" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
