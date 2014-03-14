@@ -22,10 +22,10 @@
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="f10cc6641de31def4439c644e2c7c60198bbd81b" upstream="master" />
   <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="f95ce8a91066427eba1951cb12a054a60bf668e9" upstream="master" />
   <project name="ns_server" revision="e703d8898e6906a2dee104241ff14141f4eaf939" upstream="master" />
   <project name="tlm" revision="64fc9b2137c9f4fa82b3d3a5064e3b5e16151924" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-</manifest>
+<project name="memcached" path="cmake/memcached" remote="membase" revision="5b77ce937d9c75ff41c01e59e2a4bca3b903f670" upstream="master" />
+  </manifest>
