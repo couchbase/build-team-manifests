@@ -11,12 +11,12 @@
   <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="290dcd61cf7572dd76a21a299d4aed75c1c99d81" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="f10cc6641de31def4439c644e2c7c60198bbd81b" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="7f6a4fd05865d807e7734945bbae94d56f54158d" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="9b325202b94fcfc8374b8b3c55b89bd60bd20201" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
-  <project name="libvbucket" path="cmake/libvbucket" revision="09345f9f436f3cf9592cc370ab7ec293082a0741" upstream="master" />
+  <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="b877886dbf2506eee2df1d4a8ee51e100c986f6e" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b9c2b883af2a8f16fb1d9d30b7b2a58a1194656a" upstream="master" />
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
