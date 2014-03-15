@@ -17,7 +17,6 @@
   <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
-  <project name="testrunner" revision="ce9f6deff114274ca908bc3cef0ec7a781aa3d1e" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="d4ff0fcd26d3af0229b0b7e77f139baf0f553da4" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="8a12f83dc7d82fee5c9e70ee2f86aff4be469e53" upstream="master" />
@@ -28,4 +27,5 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-</manifest>
+<project name="testrunner" revision="154f7a3f667df9614e315430f65157c6ebe964c6" upstream="master" />
+  </manifest>
