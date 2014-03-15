@@ -5,7 +5,7 @@
   <default remote="couchbase" revision="master" />
   
   <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
-  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="7d8af6a148a8952be30e90a0dd9c9c7fde312a90" upstream="master" />
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="d4ff0fcd26d3af0229b0b7e77f139baf0f553da4" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
   <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
