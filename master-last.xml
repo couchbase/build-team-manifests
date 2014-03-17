@@ -4,7 +4,6 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
   <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
@@ -28,4 +27,5 @@
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="8a12f83dc7d82fee5c9e70ee2f86aff4be469e53" upstream="master" />
   <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="fdcc529e596367a9e65aa27e7a1f53a4514a35e8" upstream="master" />
   </manifest>

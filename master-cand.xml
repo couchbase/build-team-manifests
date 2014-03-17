@@ -4,7 +4,7 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="fdcc529e596367a9e65aa27e7a1f53a4514a35e8" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="7d8af6a148a8952be30e90a0dd9c9c7fde312a90" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
@@ -16,7 +16,7 @@
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="9b325202b94fcfc8374b8b3c55b89bd60bd20201" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
-  <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
+  <project name="libvbucket" path="cmake/libvbucket" revision="09345f9f436f3cf9592cc370ab7ec293082a0741" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="b877886dbf2506eee2df1d4a8ee51e100c986f6e" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b9c2b883af2a8f16fb1d9d30b7b2a58a1194656a" upstream="master" />
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
