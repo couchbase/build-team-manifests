@@ -26,6 +26,6 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="couchdb" revision="77be43094bf664effb81af7abc7e73af716dd866" upstream="master" />
-  <project name="testrunner" revision="0c9197f8485741ed5e5796382ca8f933e1a05d12" upstream="master" />
+<project name="testrunner" revision="0c9197f8485741ed5e5796382ca8f933e1a05d12" upstream="master" />
+  <project name="couchdb" revision="3de9db80f77804865904dff9c7025cde63aca679" upstream="master" />
   </manifest>
