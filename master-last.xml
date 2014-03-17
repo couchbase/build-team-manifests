@@ -6,7 +6,6 @@
   
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
-  <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
@@ -28,4 +27,5 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-</manifest>
+<project name="couchdb" revision="77be43094bf664effb81af7abc7e73af716dd866" upstream="master" />
+  </manifest>
