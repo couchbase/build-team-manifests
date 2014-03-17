@@ -4,7 +4,6 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
   <project name="couchdb" revision="3615009f54a6e24d81ceb24c9bbd11c29d5b84f3" upstream="master" />
@@ -28,4 +27,5 @@
   </project>
 <project name="testrunner" revision="154f7a3f667df9614e315430f65157c6ebe964c6" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="fdcc529e596367a9e65aa27e7a1f53a4514a35e8" upstream="master" />
   </manifest>
