@@ -27,5 +27,5 @@
 <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
   <project name="cbsasl" path="cmake/cbsasl" revision="fdcc529e596367a9e65aa27e7a1f53a4514a35e8" upstream="master" />
   <project name="testrunner" revision="0c9197f8485741ed5e5796382ca8f933e1a05d12" upstream="master" />
-  <project name="couchdb" revision="3de9db80f77804865904dff9c7025cde63aca679" upstream="master" />
+  <project name="couchdb" revision="4a0fd1a2e930c08b3670b4d381f9de452228ba7b" upstream="master" />
   </manifest>
