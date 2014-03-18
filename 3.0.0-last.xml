@@ -24,8 +24,8 @@
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
-  <project name="couchdb" revision="4a0fd1a2e930c08b3670b4d381f9de452228ba7b" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="78c1dfd3b08f577e0326352500b9c6596edd4b9c" upstream="master" />
   <project name="testrunner" revision="684a112b8f03b4d7030465291991fc189c1c967c" upstream="master" />
   <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
+  <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   </manifest>
