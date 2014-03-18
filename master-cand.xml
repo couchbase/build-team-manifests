@@ -4,7 +4,7 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="cbsasl" path="cmake/cbsasl" revision="6b7f821b6921d91c4409aa99927e255c42197188" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="7d8af6a148a8952be30e90a0dd9c9c7fde312a90" upstream="master" />
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
@@ -23,7 +23,7 @@
   <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
-  <project name="testrunner" revision="684a112b8f03b4d7030465291991fc189c1c967c" upstream="master" />
+  <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
   <project name="tlm" revision="e9c1b65ce0bad87a3a6e3e7e8e9cca2e7da0b258" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />

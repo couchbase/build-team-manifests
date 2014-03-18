@@ -17,7 +17,6 @@
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="d4ff0fcd26d3af0229b0b7e77f139baf0f553da4" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
   <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
-  <project name="cbsasl" path="cmake/cbsasl" revision="fdcc529e596367a9e65aa27e7a1f53a4514a35e8" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="5b77ce937d9c75ff41c01e59e2a4bca3b903f670" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
   <project name="ns_server" revision="e703d8898e6906a2dee104241ff14141f4eaf939" upstream="master" />
@@ -28,4 +27,5 @@
 <project name="couchdb" revision="4a0fd1a2e930c08b3670b4d381f9de452228ba7b" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="78c1dfd3b08f577e0326352500b9c6596edd4b9c" upstream="master" />
   <project name="testrunner" revision="684a112b8f03b4d7030465291991fc189c1c967c" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   </manifest>
