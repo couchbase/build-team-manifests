@@ -27,5 +27,5 @@
   <project name="testrunner" revision="684a112b8f03b4d7030465291991fc189c1c967c" upstream="master" />
   <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="ee3328348a3dab16d03a0814a97d5ef0f87e5f9c" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="c649b2d9559a7197bfcf60e8c5f91416bc126376" upstream="master" />
   </manifest>
