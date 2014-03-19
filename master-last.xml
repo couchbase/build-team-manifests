@@ -27,5 +27,5 @@
   <project name="ep-engine" path="cmake/ep-engine" revision="2bed8136beacd5c518816e29a8d6f5b76e751ef0" upstream="master" />
   <project name="ns_server" revision="3ff521d7b28a8fe78a67d3f63f8124d0694710d1" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
-  <project name="testrunner" revision="4e77ef6b21009c701a91b46aceb096bebd95aa65" upstream="master" />
+  <project name="testrunner" revision="ef5e49855320a42cffc1d546b7c383fbb2f2410d" upstream="master" />
   </manifest>
