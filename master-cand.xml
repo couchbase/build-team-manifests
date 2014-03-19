@@ -20,10 +20,10 @@
   <project name="memcached" path="cmake/memcached" remote="membase" revision="b877886dbf2506eee2df1d4a8ee51e100c986f6e" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="b9c2b883af2a8f16fb1d9d30b7b2a58a1194656a" upstream="master" />
   <project name="ns_server" revision="265fcee13d909d56e2f7fe41d4225145ec098106" upstream="master" />
-  <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
+  <project name="platform" path="cmake/platform" revision="4aae569d3d90c1f1f0eedfc9a9eb9cddb575fd0e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
-  <project name="testrunner" revision="a84087520db656a7192a96f099628792d5f600ce" upstream="master" />
+  <project name="testrunner" revision="7fe1bcf22f52bb233c394ca48c01954c08580c9c" upstream="master" />
   <project name="tlm" revision="e9c1b65ce0bad87a3a6e3e7e8e9cca2e7da0b258" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />

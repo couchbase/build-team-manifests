@@ -21,11 +21,11 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="testrunner" revision="684a112b8f03b4d7030465291991fc189c1c967c" upstream="master" />
-  <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
+<project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="464d6f0bec20d48cf6c72152ff89d8d57fd0b5d6" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="2bed8136beacd5c518816e29a8d6f5b76e751ef0" upstream="master" />
   <project name="ns_server" revision="3ff521d7b28a8fe78a67d3f63f8124d0694710d1" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
+  <project name="testrunner" revision="7fe1bcf22f52bb233c394ca48c01954c08580c9c" upstream="master" />
   </manifest>
