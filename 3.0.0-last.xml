@@ -21,11 +21,11 @@
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="520b3511161d08c69c33246c2eec0dc1fbfc4b24" upstream="master" />
-  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="2732c93966f5ea0d4aa8accf9e1d6bcb573692d1" upstream="master" />
   <project name="ns_server" revision="e11aae2bc555ebc48a6520bcbee3adbbfe64a29e" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="53f39370c67d712df4979d102e325a803fe34304" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
   <project name="cbsasl" path="cmake/cbsasl" revision="fa3de56c09d5b3c51cd105ad8e2afb2c5901682c" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="864bab7bb870481006a7694a2b88b517d889ca18" upstream="master" />
   <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master" />
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="967aefab853c10afd32dafa7e9903d8502aa5eae" upstream="master" />
   </manifest>
