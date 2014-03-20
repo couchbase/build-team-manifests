@@ -5,7 +5,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="force-build" upstream="master"/>
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="forcebuild" upstream="master"/>
   <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master"/>
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181"/>
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master"/>
@@ -18,7 +18,7 @@
   <project name="memcached" path="cmake/memcached" remote="membase" revision="e21fb479139424058d13581a6f766bc7ca7d722a" upstream="master"/>
   <project name="moxi" path="cmake/moxi" revision="b6517bb503872d8142817beba84cd0bf4dbf24a5" upstream="master"/>
   <project name="ns_server" revision="3ff521d7b28a8fe78a67d3f63f8124d0694710d1" upstream="master"/>
-  <project name="platform" path="cmake/platform" revision="21dc4478e86c6a5c04929789f4d7651c144f43e4" upstream="master"/>
+  <project name="platform" path="cmake/platform" revision="8e954118010f862e2e99766915f98f7513bff200" upstream="master"/>
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master"/>
   <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master"/>
   <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master"/>
