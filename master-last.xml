@@ -23,9 +23,9 @@
 <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
-  <project name="testrunner" revision="450d28572eb2081de6399d5e58a8444698337022" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="520b3511161d08c69c33246c2eec0dc1fbfc4b24" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="07853e11a9d77bf54d8fbc3e7cbf542549066aec" upstream="master" />
   <project name="ns_server" revision="e11aae2bc555ebc48a6520bcbee3adbbfe64a29e" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="2732c93966f5ea0d4aa8accf9e1d6bcb573692d1" upstream="master" />
+  <project name="testrunner" revision="9726a2da8c1817e1da7d438a661cf8fee967a1fb" upstream="master" />
   </manifest>
