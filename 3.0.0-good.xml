@@ -1,31 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://github.com/couchbase/" name="couchbase" review="review.couchbase.org" />
-  <remote fetch="git://github.com/membase/" name="membase" review="review.couchbase.org" />
+  <remote fetch="git://github.com/couchbase/" name="couchbase" review="review.couchbase.org"/>
+  <remote fetch="git://github.com/membase/" name="membase" review="review.couchbase.org"/>
   
-  <default remote="couchbase" revision="master" />
+  <default remote="couchbase" revision="master"/>
   
-  <project name="cbsasl" path="cmake/cbsasl" revision="fa3de56c09d5b3c51cd105ad8e2afb2c5901682c" upstream="master" />
-  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="967aefab853c10afd32dafa7e9903d8502aa5eae" upstream="master" />
-  <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master" />
-  <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181" />
-  <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
-  <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
-  <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="53f39370c67d712df4979d102e325a803fe34304" upstream="master" />
-  <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
-  <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
-  <project name="libconflate" path="cmake/libconflate" revision="864bab7bb870481006a7694a2b88b517d889ca18" upstream="master" />
-  <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
-  <project name="libvbucket" path="cmake/libvbucket" revision="c12a8a8c07c4808ad430a7be4434fb65d8dd1267" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="520b3511161d08c69c33246c2eec0dc1fbfc4b24" upstream="master" />
-  <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
-  <project name="ns_server" revision="e11aae2bc555ebc48a6520bcbee3adbbfe64a29e" upstream="master" />
-  <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
-  <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
-  <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
-  <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master" />
-  <project name="tlm" revision="64fc9b2137c9f4fa82b3d3a5064e3b5e16151924" upstream="master">
-    <copyfile dest="Makefile" src="Makefile.top" />
-    <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="force-build" upstream="master"/>
+  <project name="couchbase-examples" path="cmake/couchbase-examples" revision="c04d52124a29c51eb8d32bedebf0057c23063666" upstream="master"/>
+  <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="536cfb9fd7b4372ac2f6316f1e3939c0557b72a5" upstream="couchbase-181"/>
+  <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master"/>
+  <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master"/>
+  <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master"/>
+  <project name="ep-engine" path="cmake/ep-engine" revision="53f39370c67d712df4979d102e325a803fe34304" upstream="master"/>
+  <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master"/>
+  <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master"/>
+  <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake"/>
+  <project name="memcached" path="cmake/memcached" remote="membase" revision="e21fb479139424058d13581a6f766bc7ca7d722a" upstream="master"/>
+  <project name="moxi" path="cmake/moxi" revision="b6517bb503872d8142817beba84cd0bf4dbf24a5" upstream="master"/>
+  <project name="ns_server" revision="3ff521d7b28a8fe78a67d3f63f8124d0694710d1" upstream="master"/>
+  <project name="platform" path="cmake/platform" revision="21dc4478e86c6a5c04929789f4d7651c144f43e4" upstream="master"/>
+  <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master"/>
+  <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master"/>
+  <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master"/>
+  <project name="tlm" revision="676aad35d715a1d092dbc0d735dacabde89660f4" upstream="master">
+    <copyfile dest="Makefile" src="Makefile.top"/>
+    <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
 </manifest>
