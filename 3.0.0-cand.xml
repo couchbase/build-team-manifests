@@ -11,7 +11,7 @@
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="8e6fe94d4d28da969646c97afa6f5a7c9948dff9" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="0c3d63cc49d7276dcc047561317f2434b227a421" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="07853e11a9d77bf54d8fbc3e7cbf542549066aec" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="9b325202b94fcfc8374b8b3c55b89bd60bd20201" upstream="master" />
