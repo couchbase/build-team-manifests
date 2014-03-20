@@ -27,5 +27,5 @@
   <project name="cbsasl" path="cmake/cbsasl" revision="fa3de56c09d5b3c51cd105ad8e2afb2c5901682c" upstream="master" />
   <project name="libconflate" path="cmake/libconflate" revision="864bab7bb870481006a7694a2b88b517d889ca18" upstream="master" />
   <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master" />
-  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="967aefab853c10afd32dafa7e9903d8502aa5eae" upstream="master" />
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="75ec359f378c2df79e927dabde498353142cf0e1" upstream="master" />
   </manifest>
