@@ -22,7 +22,7 @@
   <project name="ns_server" revision="e11aae2bc555ebc48a6520bcbee3adbbfe64a29e" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
-  <project name="sigar" path="cmake/sigar" revision="3b4d083633c85a33e3672be34b9681706459ce37" upstream="master" />
+  <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
   <project name="testrunner" revision="1856631667a2c159a04d59bd59a36ed5a1ef2cf9" upstream="master" />
   <project name="tlm" revision="64fc9b2137c9f4fa82b3d3a5064e3b5e16151924" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
