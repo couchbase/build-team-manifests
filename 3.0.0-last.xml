@@ -19,7 +19,6 @@
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="moxi" path="cmake/moxi" revision="b3aa8c8af746d06c9a2cba46631a40608659a7e4" upstream="master" />
-  <project name="cbsasl" path="cmake/cbsasl" revision="885ed0a8af42a7979470e6997c3a2623ce79efcf" upstream="master" />
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="platform" path="cmake/platform" revision="dfb67698e1f0a3556365c2a71ae04d6d79e623b9" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="520b3511161d08c69c33246c2eec0dc1fbfc4b24" upstream="master" />
@@ -28,4 +27,5 @@
   <project name="ep-engine" path="cmake/ep-engine" revision="53f39370c67d712df4979d102e325a803fe34304" upstream="master" />
   <project name="testrunner" revision="1856631667a2c159a04d59bd59a36ed5a1ef2cf9" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
+  <project name="cbsasl" path="cmake/cbsasl" revision="fa3de56c09d5b3c51cd105ad8e2afb2c5901682c" upstream="master" />
   </manifest>
