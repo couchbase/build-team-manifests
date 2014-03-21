@@ -16,8 +16,7 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="couchbase-cli" path="cmake/couchbase-cli" revision="75ec359f378c2df79e927dabde498353142cf0e1" upstream="master" />
-  <project name="couchbase-examples" path="cmake/couchbase-examples" revision="5c92ba8ce40a1ac6af5d8ba199f8297a53d12f8c" upstream="master" />
+<project name="couchbase-examples" path="cmake/couchbase-examples" revision="5c92ba8ce40a1ac6af5d8ba199f8297a53d12f8c" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="ba49b75d4bbb02ff6dbac314ad0944d14809cdd5" upstream="couchbase-181" />
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="133b726bf26ce8b0dc87fe4b2777f0049339a8f2" upstream="master" />
@@ -25,4 +24,5 @@
   <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="8f5aab0470665c1f20d5163359ece68ae67b0848" upstream="cmake" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="fc2ff4e8948d2c2cd00ef9d1104e2b4193ed0b21" upstream="master" />
+  <project name="couchbase-cli" path="cmake/couchbase-cli" revision="6d8e68d23cd8834a355d480f268c45e49e8db2e6" upstream="master" />
   </manifest>
