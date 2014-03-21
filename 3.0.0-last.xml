@@ -8,7 +8,6 @@
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
-  <project name="moxi" path="cmake/moxi" revision="b6517bb503872d8142817beba84cd0bf4dbf24a5" upstream="master" />
   <project name="ns_server" revision="3ff521d7b28a8fe78a67d3f63f8124d0694710d1" upstream="master" />
   <project name="platform" path="cmake/platform" revision="8e954118010f862e2e99766915f98f7513bff200" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
@@ -25,4 +24,5 @@
   <project name="ep-engine" path="cmake/ep-engine" revision="133b726bf26ce8b0dc87fe4b2777f0049339a8f2" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="08f4fc8845d12923288d1c1fc7f7c7c1c5be8ae7" upstream="master" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="ed0d083401350515a559f6120235f5b310cdc828" upstream="master" />
+  <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
   </manifest>
