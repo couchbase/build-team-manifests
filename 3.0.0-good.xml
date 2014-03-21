@@ -10,7 +10,7 @@
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="9b454212a339e17e0fb17d75713460a2f13b9f89" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="133b726bf26ce8b0dc87fe4b2777f0049339a8f2" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="77ed12c9f2b16940bb27315e130c6764aa9cdb2a" upstream="cmake" />
