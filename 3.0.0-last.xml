@@ -24,5 +24,5 @@
   <project name="memcached" path="cmake/memcached" remote="membase" revision="fc2ff4e8948d2c2cd00ef9d1104e2b4193ed0b21" upstream="master" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="6d8e68d23cd8834a355d480f268c45e49e8db2e6" upstream="master" />
   <project name="ns_server" revision="8470ddd33b4297ac4507f07be74ee1a06cba2a27" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="8086156c1d48d45c1f8e0734a5d51fd764d52127" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="ba01f68086c3d9b62bbeed9629674efece3fc61d" upstream="master" />
   </manifest>
