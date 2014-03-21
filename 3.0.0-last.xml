@@ -22,7 +22,7 @@
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="133b726bf26ce8b0dc87fe4b2777f0049339a8f2" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="08f4fc8845d12923288d1c1fc7f7c7c1c5be8ae7" upstream="master" />
-  <project name="memcached" path="cmake/memcached" remote="membase" revision="ed0d083401350515a559f6120235f5b310cdc828" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="8f5aab0470665c1f20d5163359ece68ae67b0848" upstream="cmake" />
+  <project name="memcached" path="cmake/memcached" remote="membase" revision="fc2ff4e8948d2c2cd00ef9d1104e2b4193ed0b21" upstream="master" />
   </manifest>
