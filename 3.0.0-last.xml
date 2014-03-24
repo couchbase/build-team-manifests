@@ -19,10 +19,10 @@
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="6d8e68d23cd8834a355d480f268c45e49e8db2e6" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="ba01f68086c3d9b62bbeed9629674efece3fc61d" upstream="master" />
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
-  <project name="ns_server" revision="a52253d251b6c7d1b965bd07a5025081161fa127" upstream="master" />
   <project name="tlm" revision="dbe676344d31207ce7e37f814389cf725d357a57" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="testrunner" revision="c320f67d3cb7ae934bba1b4b52ca5db41101cde8" upstream="master" />
+  <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
   </manifest>
