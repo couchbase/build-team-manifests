@@ -23,6 +23,6 @@
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="8f5aab0470665c1f20d5163359ece68ae67b0848" upstream="cmake" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="fc2ff4e8948d2c2cd00ef9d1104e2b4193ed0b21" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
-  <project name="ns_server" revision="a52253d251b6c7d1b965bd07a5025081161fa127" upstream="master" />
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
+  <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
   </manifest>
