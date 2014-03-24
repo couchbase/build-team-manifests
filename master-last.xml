@@ -10,11 +10,7 @@
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
   <project name="testrunner" revision="41737d3fb06b03a821f8fa1fbb7f4137b27d8a8e" upstream="master" />
-  <project name="tlm" revision="676aad35d715a1d092dbc0d735dacabde89660f4" upstream="master">
-    <copyfile dest="Makefile" src="Makefile.top" />
-    <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
-  </project>
-<project name="couchbase-examples" path="cmake/couchbase-examples" revision="5c92ba8ce40a1ac6af5d8ba199f8297a53d12f8c" upstream="master" />
+  <project name="couchbase-examples" path="cmake/couchbase-examples" revision="5c92ba8ce40a1ac6af5d8ba199f8297a53d12f8c" upstream="master" />
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="ba49b75d4bbb02ff6dbac314ad0944d14809cdd5" upstream="couchbase-181" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="6d8e68d23cd8834a355d480f268c45e49e8db2e6" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
@@ -25,4 +21,8 @@
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
   <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="ba2c74f3bfab0fabb951639cf5df8263129db16d" upstream="master" />
-  </manifest>
+  <project name="tlm" revision="dbe676344d31207ce7e37f814389cf725d357a57" upstream="master">
+    <copyfile dest="Makefile" src="Makefile.top" />
+    <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
+  </project>
+</manifest>
