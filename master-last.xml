@@ -18,11 +18,11 @@
   <project name="couchbase-python-client" path="cmake/couchbase-python-client" revision="ba49b75d4bbb02ff6dbac314ad0944d14809cdd5" upstream="couchbase-181" />
   <project name="couchbase-cli" path="cmake/couchbase-cli" revision="6d8e68d23cd8834a355d480f268c45e49e8db2e6" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="ba01f68086c3d9b62bbeed9629674efece3fc61d" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="08f4fc8845d12923288d1c1fc7f7c7c1c5be8ae7" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="8f5aab0470665c1f20d5163359ece68ae67b0848" upstream="cmake" />
   <project name="memcached" path="cmake/memcached" remote="membase" revision="fc2ff4e8948d2c2cd00ef9d1104e2b4193ed0b21" upstream="master" />
   <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
   <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="ba2c74f3bfab0fabb951639cf5df8263129db16d" upstream="master" />
   </manifest>
