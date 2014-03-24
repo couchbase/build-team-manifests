@@ -10,7 +10,7 @@
   <project name="couchdb" revision="2c8761578ba0cfcb930e7f870f5780d6164196df" upstream="master" />
   <project name="couchdbx-app" revision="a575171f942835dda02e73d151abb0b671ca98de" upstream="master" />
   <project name="couchstore" path="cmake/couchstore" revision="ca6022cd2a6ab43d5a0d2fd1b34135589f51e410" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="ba2c74f3bfab0fabb951639cf5df8263129db16d" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="ba01f68086c3d9b62bbeed9629674efece3fc61d" upstream="master" />
   <project name="geocouch" revision="6c3319dcc2120b4c35de96360cf1b36d07b18084" upstream="master" />
   <project name="healthchecker" path="cmake/healthchecker" revision="76ec10d05d630d34321d47d78262e71e31256af5" upstream="master" />
   <project name="libmemcached" path="cmake/libmemcached" remote="membase" revision="8f5aab0470665c1f20d5163359ece68ae67b0848" upstream="cmake" />
@@ -20,7 +20,7 @@
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
   <project name="portsigar" path="cmake/portsigar" revision="555eb70e7658c504e8b72feeea377b5ae8934c96" upstream="master" />
   <project name="sigar" path="cmake/sigar" revision="52a431d78ed18080bb5be9cbf214b1e67ec8b89d" upstream="master" />
-  <project name="testrunner" revision="c320f67d3cb7ae934bba1b4b52ca5db41101cde8" upstream="master" />
+  <project name="testrunner" revision="cb63fd9973f3ffe1e44fe49633c879bece2f1198" upstream="master" />
   <project name="tlm" revision="dbe676344d31207ce7e37f814389cf725d357a57" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />

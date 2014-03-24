@@ -22,7 +22,7 @@
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
-<project name="testrunner" revision="c320f67d3cb7ae934bba1b4b52ca5db41101cde8" upstream="master" />
-  <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
+<project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
   <project name="ep-engine" path="cmake/ep-engine" revision="ba2c74f3bfab0fabb951639cf5df8263129db16d" upstream="master" />
+  <project name="testrunner" revision="cb63fd9973f3ffe1e44fe49633c879bece2f1198" upstream="master" />
   </manifest>
