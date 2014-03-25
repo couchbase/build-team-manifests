@@ -19,10 +19,10 @@
   <project name="moxi" path="cmake/moxi" revision="a1ad8ab5ffc5e4ad46f03c47945187b03cca076d" upstream="master" />
   <project name="platform" path="cmake/platform" revision="206738a243ce62002dfb3aa9eff7f9fd9714ed1e" upstream="master" />
   <project name="ns_server" revision="f71108c4fc5159e8ef76d937224c4516382e2053" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="ba2c74f3bfab0fabb951639cf5df8263129db16d" upstream="master" />
   <project name="tlm" revision="dbe676344d31207ce7e37f814389cf725d357a57" upstream="master">
     <copyfile dest="Makefile" src="Makefile.top" />
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="testrunner" revision="cb63fd9973f3ffe1e44fe49633c879bece2f1198" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="a8f2d748a824ef15406209632fe5e4692617ad1c" upstream="master" />
   </manifest>
