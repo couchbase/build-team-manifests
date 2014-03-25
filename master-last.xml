@@ -24,5 +24,5 @@
     <copyfile dest="cmake/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
 <project name="testrunner" revision="cb63fd9973f3ffe1e44fe49633c879bece2f1198" upstream="master" />
-  <project name="ep-engine" path="cmake/ep-engine" revision="a8f2d748a824ef15406209632fe5e4692617ad1c" upstream="master" />
+  <project name="ep-engine" path="cmake/ep-engine" revision="1028c55fddec0c354e47f45972453cc23ddf1696" upstream="master" />
   </manifest>
