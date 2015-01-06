@@ -78,5 +78,5 @@
   </project>
   <project name="uuid" path="godeps/src/github.com/twinj/uuid" remote="twinj" revision="4d772442af203e27723acc7d1eea6c93cd319c57" upstream="master"/>
   <project groups="notdefault,3rdparty" name="v8" revision="05120013843918f7e3712159c03b509d3e328cf7" upstream="3.21.17-couchbase"/>
-  <project groups="notdefault,build" name="voltron" remote="couchbase-priv" revision="002ff68771f9823b2bdb085a6938f5b5a87959a0" upstream="master"/>
+  <project groups="notdefault,build" name="voltron" remote="couchbase-priv" revision="97e18652553f895c2f773a4fe3a5c6b604f83c89" upstream="master"/>
 </manifest>
