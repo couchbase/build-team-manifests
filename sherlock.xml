@@ -17,7 +17,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="769d757589f9cfd6cfc616cc7fd95d8de8725098" upstream="master">
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="f21ca5fcffd0372e81c7cd7e3cfa3650b8319afd" upstream="master">
     <annotation name="BLD_NUM" value="@BLD_NUM@"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
@@ -66,7 +66,7 @@
   <project name="platform" revision="a8eb6c4ea1d81fef0c18b70d40534be77cbbd4b4" upstream="master"/>
   <project groups="notdefault,3rdparty" name="pysqlite" revision="0ff6e32ea05037fddef1eb41a648f2a2141009ea" upstream="master"/>
   <project groups="notdefault,3rdparty" name="python-snappy" revision="c97d633ef5364740c152fd184f61c2d9e1a93d01" upstream="master"/>
-  <project name="query" path="goproj/src/github.com/couchbaselabs/query" remote="couchbaselabs" revision="03fcd2e032d340621627fb1826a4d569146cc83c" upstream="master"/>
+  <project name="query" path="goproj/src/github.com/couchbaselabs/query" remote="couchbaselabs" revision="f762f985c9e718233bd9aee379b00f2ba4966b17" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbaselabs/retriever" remote="couchbaselabs" revision="8dda55f8a35e60b8138b11370dd15b470d9749aa" upstream="master"/>
   <project name="sigar" revision="1f6eed3b0999fc826582087dfa12fbf40b7cce7e" upstream="master"/>
   <project groups="notdefault,3rdparty" name="snappy" revision="009c4325f40e04700ca7956e866ad342f020e214"/>
