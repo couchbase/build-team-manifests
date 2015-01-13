@@ -34,7 +34,7 @@
   <project name="couchstore" revision="d897c7094e944cdce5c1f5833d0ec8ee84bf5457" upstream="master"/>
   <project name="dparval" path="godeps/src/github.com/couchbaselabs/dparval" remote="couchbaselabs" revision="5d028529d537c667b5ed571a9623392d4821f77d" upstream="master"/>
   <project name="ep-engine" revision="2fce226a1b7dc65ae4fd113d3e18596dde0b1ef3" upstream="master"/>
-  <project name="forestdb" remote="couchbaselabs" revision="178e472772ce5beddd7ac1548aebc4683682601b" upstream="master"/>
+  <project name="forestdb" remote="couchbaselabs" revision="e5e832d80d425a0bfc69a8f9afea930ffc6843c3" upstream="master"/>
   <project name="geocouch" revision="c26a6676b960c7645f8624c4e83a602570e721b2" upstream="master"/>
   <project name="go-couchbase" path="godeps/src/github.com/couchbaselabs/go-couchbase" remote="couchbaselabs" revision="8e36a6f0caf3ed82c40d3cc3b4f90ec35968592c" upstream="master"/>
   <project name="go-jsonpointer" path="godeps/src/github.com/dustin/go-jsonpointer" remote="dustin" revision="75939f54b39e7dafae879e61f65438dadc5f288c" upstream="master"/>
