@@ -17,7 +17,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="4b534ca82c7080ec9944323eba81cada6014f47d" upstream="master">
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="8a4561f963d5aff821c1f94f48b33c20276dbf7d" upstream="master">
     <annotation name="BLD_NUM" value="@BLD_NUM@"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
@@ -70,7 +70,7 @@
   <project name="sigar" revision="1f6eed3b0999fc826582087dfa12fbf40b7cce7e" upstream="master"/>
   <project groups="notdefault,3rdparty" name="snappy" revision="009c4325f40e04700ca7956e866ad342f020e214"/>
   <project name="testrunner" revision="4270c2abc47301fbe97410295db002124ae2b9da" upstream="master"/>
-  <project name="tlm" revision="3793ce18dc24c248bd6f57c536e9a8e39521d9c2" upstream="master">
+  <project name="tlm" revision="ab8f97758ba59477b65f8fa9c3fa79fd0e15b2b8" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
