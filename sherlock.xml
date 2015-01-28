@@ -17,7 +17,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="f3f362ceb1bb6e137803d77edab9d4711ef9a0e0" upstream="master">
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="0b3f3304619059d475ad9e357b3e46fa3cb0266b" upstream="master">
     <annotation name="BLD_NUM" value="@BLD_NUM@"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
