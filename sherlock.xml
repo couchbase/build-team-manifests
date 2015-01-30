@@ -70,7 +70,7 @@
   <project name="sigar" revision="1f6eed3b0999fc826582087dfa12fbf40b7cce7e" upstream="master"/>
   <project groups="notdefault,3rdparty" name="snappy" revision="009c4325f40e04700ca7956e866ad342f020e214"/>
   <project name="testrunner" revision="a89fa9ee2916192a9210a32b0604bc31606587cc" upstream="master"/>
-  <project name="tlm" revision="1f06b3170dc34f0f034eaaa2df5054a096d36533" upstream="master">
+  <project name="tlm" revision="3a77e0c066673d52859f208882ee5631064e2a0d" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
