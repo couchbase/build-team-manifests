@@ -47,7 +47,7 @@
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="5d074ebcda250cda5cb1084de56eb0cfa84e5962" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/code.google.com/p/goprotobuf" remote="couchbaselabs" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/github.com/couchbaselabs/goprotobuf" remote="couchbaselabs" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6" upstream="master"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="227c80c3e29384edfca5e3214f0c78236192d19c" upstream="master"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="9fb10ed8608d7e42c95563c200cfafc654d5aa71" upstream="master"/>
   <project groups="notdefault,3rdparty" name="gperftools" revision="846b775dfadb77901202ae7ddbac30ad1de7df01" upstream="refs/tags/gperftools-2.2"/>
   <project groups="notdefault,packaging" name="grommit" remote="membase-priv" revision="405da4877a67f230e9933a45f16901ad6b97a09b" upstream="master"/>
   <project groups="notdefault,3rdparty" name="gyp" path="v8/build/gyp" revision="7c819b84a9a9484154d7584b7795f607e3178b3f" upstream="couchbase-v8-3.21.17"/>
