@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://github.com/ceejatec/" name="ceejatec"/>
   <remote fetch="git://github.com/couchbase/" name="couchbase" review="review.couchbase.org"/>
   <remote fetch="ssh://git@github.com/couchbase/" name="couchbase-priv" review="review.couchbase.org"/>
   <remote fetch="git://github.com/couchbaselabs/" name="couchbaselabs" review="review.couchbase.org"/>
@@ -66,5 +65,5 @@
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
   <project name="uuid" path="godeps/src/github.com/twinj/uuid" remote="twinj" revision="4d772442af203e27723acc7d1eea6c93cd319c57" upstream="master"/>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="01c781deb6f9f8eac1dd26567ed401420517a403" upstream="master"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="d0a5bcc68b8b127181390f7717f1355ba041b2a6" upstream="master"/>
 </manifest>
