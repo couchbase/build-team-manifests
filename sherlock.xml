@@ -14,7 +14,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="ab61f72e4f8d7415db0b6864c03684bd553c15e3" upstream="master">
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="5fc4ea26a2bd88f5c82d0d70390333880459d85c" upstream="master">
     <annotation name="BLD_NUM" value="@BLD_NUM@"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
@@ -53,7 +53,7 @@
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="natefinch" revision="272c8150302e83f23d32a355364578c9c13ab20f" upstream="master"/>
   <project name="ns_server" revision="b2b65d159baab61617256226ff72edf3ef86f5f2" upstream="master"/>
   <project name="platform" revision="42c8d8bbe5c1be16f9684c049a0ec66aa310fff5" upstream="sherlock"/>
-  <project name="query" path="goproj/src/github.com/couchbase/query" revision="4761bed3cf085b2788996ca2c13905270c2549b7" upstream="master"/>
+  <project name="query" path="goproj/src/github.com/couchbase/query" revision="c6459b66af249fef85481c911673f5cb19c580a5" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbaselabs/retriever" remote="couchbaselabs" revision="8dda55f8a35e60b8138b11370dd15b470d9749aa" upstream="master"/>
   <project name="sigar" revision="76dad86d11dd7e567f8cdb9b646af90f58dd2ad2" upstream="master"/>
   <project name="testrunner" revision="a4ba1dd3c5d9552132d0253b86c590e167373e0a" upstream="master"/>
