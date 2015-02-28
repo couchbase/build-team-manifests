@@ -63,5 +63,5 @@
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
   <project name="uuid" path="godeps/src/github.com/twinj/uuid" remote="twinj" revision="4d772442af203e27723acc7d1eea6c93cd319c57" upstream="master"/>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="63513295443f4d8f27c69b22c076f8ca0fb1114d" upstream="master"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="89ced4fd6f4750b2ae16c6a35bce0a05427bb91e" upstream="master"/>
 </manifest>
