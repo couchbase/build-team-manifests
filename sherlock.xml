@@ -56,7 +56,7 @@
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="bd40df9c3bc6ec3db921e0174649f724924dc9b6" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbaselabs/retriever" remote="couchbaselabs" revision="8dda55f8a35e60b8138b11370dd15b470d9749aa" upstream="master"/>
   <project name="sigar" revision="76dad86d11dd7e567f8cdb9b646af90f58dd2ad2" upstream="master"/>
-  <project name="testrunner" revision="c19f6591f2dd9affeb5863c964385d4b88ee886a" upstream="master"/>
+  <project name="testrunner" revision="51e018e9ac20b84a4d549a5153c978cd3b3cc807" upstream="master"/>
   <project name="tlm" revision="0e38366177758f69942b9130546c1851eefe621e" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
