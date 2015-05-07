@@ -48,7 +48,7 @@
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="sigar" revision="76dad86d11dd7e567f8cdb9b646af90f58dd2ad2" upstream="master"/>
   <project name="testrunner" revision="e956584ad9656907ecf0233f62862d6d18eb12dc" upstream="master"/>
-  <project name="tlm" revision="061648bce1e0348c41a181449ae3d67b2bf99d8a" upstream="sherlock">
+  <project name="tlm" revision="47b79ccd2725e7b7971e8c5be6d18a1fc15672c0" upstream="sherlock">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
