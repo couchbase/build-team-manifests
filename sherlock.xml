@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="42c230f9ca72a606b87934ae636e00e03f52c49c" upstream="master">
-    <annotation name="BLD_NUM" value="2999"/>
+    <annotation name="BLD_NUM" value="3000"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -35,7 +35,7 @@
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="da692508098262b144d1935e892234d811008b92" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/code.google.com/p/goprotobuf" remote="couchbasedeps" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6"/>
   <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="fd6e655dfdd3143dfea5aa6de9789348ea4e63a9" upstream="master"/>
-  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="4165266471c9cfa5b9ce0ba6b0b73f8e9ce781c2" upstream="master"/>
+  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="e256bd7a4da70d8d0f42490723b32428a6bb00ac" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="59efd719fc37c4f48c5d85c2fec9ff983226fd14" upstream="sherlock"/>
   <project name="moxi" revision="78326ab133bd8ff7eae4000e270c304db6bb9e86" upstream="master"/>
@@ -47,7 +47,7 @@
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="d6652eac1012116a54e741ada0a2f6b5cddd98bf" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="sigar" revision="3b99ab91c678d89418eeac259ee4d33d4939096c" upstream="master"/>
-  <project name="testrunner" revision="7a612139bfcc8e73b7b9c13b4efbbf41beabbd42" upstream="master"/>
+  <project name="testrunner" revision="61156a722515de6e991847ff80384805a0522a04" upstream="master"/>
   <project name="tlm" revision="5840fd94be6aa055607c4ce05344a245b727fe17" upstream="sherlock">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
