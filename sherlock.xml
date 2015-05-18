@@ -6,8 +6,8 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="611ab00df881c5aa847911787634e0c8bd51db65" upstream="master">
-    <annotation name="BLD_NUM" value="3004"/>
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="fc9a13ccb2d5c9be6f36869319a16e1ef8b404a3" upstream="master">
+    <annotation name="BLD_NUM" value="3005"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -34,14 +34,14 @@
   <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="ae025f86aff77674ef813f12e1cf5d7787811d0b" upstream="master"/>
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="da692508098262b144d1935e892234d811008b92" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/code.google.com/p/goprotobuf" remote="couchbasedeps" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="fd6e655dfdd3143dfea5aa6de9789348ea4e63a9" upstream="master"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="f5c73ceae683237e7252773c9f99a95f95747542" upstream="master"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="e256bd7a4da70d8d0f42490723b32428a6bb00ac" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="59efd719fc37c4f48c5d85c2fec9ff983226fd14" upstream="sherlock"/>
   <project name="moxi" revision="78326ab133bd8ff7eae4000e270c304db6bb9e86" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
-  <project name="ns_server" revision="558fb2228b6dc4f4221bed88e5d8622292e3c85f" upstream="master"/>
+  <project name="ns_server" revision="bfaac6a8f8cfa3dace2e6bc846605b2c023ff220" upstream="master"/>
   <project name="platform" revision="081d4eec549ace1a6181c8883fb5188b08237ce1" upstream="sherlock"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="d6652eac1012116a54e741ada0a2f6b5cddd98bf" upstream="master"/>
