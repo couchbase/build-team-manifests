@@ -6,8 +6,8 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="6d455d70b98b029a7c8539b3aa86ea272a911928" upstream="master">
-    <annotation name="BLD_NUM" value="3006"/>
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="42351c934289be300d03e4649a6af1efec8f0815" upstream="master">
+    <annotation name="BLD_NUM" value="3007"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
