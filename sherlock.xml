@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="2809006f41ebebc20f562a70376fd7bb2c6d5116" upstream="master">
-    <annotation name="BLD_NUM" value="3034"/>
+    <annotation name="BLD_NUM" value="3035"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -21,7 +21,7 @@
   <project groups="notdefault,packaging" name="couchdbx-app" revision="99ceb74b3954d0518abeaac818bf383af1b0da42" upstream="master"/>
   <project name="couchstore" revision="f93a380c6160554a7c61539407bcdd3d35e2d777" upstream="master"/>
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master"/>
-  <project name="ep-engine" revision="033674e29a80cc6c0b390301fdc3f7af6774df77" upstream="sherlock"/>
+  <project name="ep-engine" revision="2f379fc3c528067be3a5f962089dfef6de5f1ff5" upstream="sherlock"/>
   <project name="forestdb" revision="a35ae360aca14f07e69505e91b5279a051df4be8" upstream="sherlock"/>
   <project name="geocouch" revision="5c10925c6b7e16c9d70ab00e99eb836a8d0ad2e8" upstream="master"/>
   <project name="go-couchbase" path="godeps/src/github.com/couchbase/go-couchbase" revision="e0dd36705313cb8ce2157609b6307f72417510e5" upstream="master"/>
@@ -34,7 +34,7 @@
   <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="be349fa521a218b2580ab9c1dd5eafa47eea1727" upstream="master"/>
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="da692508098262b144d1935e892234d811008b92" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/code.google.com/p/goprotobuf" remote="couchbasedeps" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="48b8c8295acb3401219d54997d542724ea3318da" upstream="master"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="d85ad7e1dc51c352bb28d24ecc91fee5157a5aff" upstream="master"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="fe5926c47aa5a08c091a718edbf2ae32d513803b" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="907b5fd4da352ed0d2d4267382e697a31d2035e4" upstream="sherlock"/>
