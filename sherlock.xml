@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="74dd57f79ffe380dfe76ae08b78f33efe043d125" upstream="master">
-    <annotation name="BLD_NUM" value="3230"/>
+    <annotation name="BLD_NUM" value="3231"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -22,7 +22,7 @@
   <project name="couchstore" revision="a8e62912af240fdd8dee539ff3680c30a8830cc0" upstream="master"/>
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master"/>
   <project name="ep-engine" revision="e377544e0b17d0e6d931d86b369bfbc4e0a82ef4" upstream="sherlock"/>
-  <project name="forestdb" revision="a44d9d7516dc1c337a2a0b202235e9926b2be327" upstream="sherlock"/>
+  <project name="forestdb" revision="b31f83a4a25f162257ab92efa395a8bb67ec8508" upstream="sherlock"/>
   <project name="geocouch" revision="2c853eb674cdb294021595747c1e6a23dfdb7d26" upstream="master"/>
   <project name="go-couchbase" path="godeps/src/github.com/couchbase/go-couchbase" revision="e797ef5c3268b805aedc1ce9325e193b9fdd9d20" upstream="master"/>
   <project name="go-jsonpointer" path="godeps/src/github.com/dustin/go-jsonpointer" remote="couchbasedeps" revision="75939f54b39e7dafae879e61f65438dadc5f288c"/>
