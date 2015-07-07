@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="91bfe47daabafaf3fc15e02fc0d8cedecf2b8f0b" upstream="master">
-    <annotation name="BLD_NUM" value="3371"/>
+    <annotation name="BLD_NUM" value="3372"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -44,10 +44,10 @@
   <project name="ns_server" revision="e8bfebb7ec83a07ef0af09ce4237590aac9c86c6" upstream="master"/>
   <project name="platform" revision="d75118b822f8e93e44f905a59f647a5d49f580ba" upstream="sherlock"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
-  <project name="query" path="goproj/src/github.com/couchbase/query" revision="d28af62aecbf34e48c1fec880ff8b70e672e3935" upstream="master"/>
+  <project name="query" path="goproj/src/github.com/couchbase/query" revision="bc16d4c7df0b0f4d7675452fe8c2dd8a87cf4052" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="sigar" revision="829a4c032705b78ae3e2aeb4124dcb6faae51309" upstream="master"/>
-  <project name="testrunner" revision="d5dd521b7b10c9898ee609fc2ede0253fb5ca50a" upstream="master"/>
+  <project name="testrunner" revision="206c16366fbea8c9dbf5da87f2815ab91d2fe2e5" upstream="master"/>
   <project name="tlm" revision="498056fcb0a1bd3e28ed7df0bff73c45ed435e26" upstream="sherlock">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
