@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="56a446ed510a7ee4dd348d3e62f72de707350ea0" upstream="master">
-    <annotation name="BLD_NUM" value="3451"/>
+    <annotation name="BLD_NUM" value="3452"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -47,7 +47,7 @@
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="595dc553fa4f0419aaba7e07fd3626f68a491963" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="sigar" revision="829a4c032705b78ae3e2aeb4124dcb6faae51309" upstream="master"/>
-  <project name="testrunner" revision="e5159af159c27232a3fdeba35cb6cf23565f7706" upstream="master"/>
+  <project name="testrunner" revision="861e70ddc9fada6aa639068b030aea6d8aa5a69a" upstream="master"/>
   <project name="tlm" revision="7f8f2b6f32469ba1eb804449677c02ef5af9250d" upstream="sherlock">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
