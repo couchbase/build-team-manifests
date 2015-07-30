@@ -6,8 +6,8 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="302c146c0507b61d5445fcec4c9108d5f36bc4a6" upstream="master">
-    <annotation name="BLD_NUM" value="4499"/>
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="2fa840fed232e7108b08e2c6248635b3f68cb2c4" upstream="master">
+    <annotation name="BLD_NUM" value="4500"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -41,13 +41,13 @@
   <project name="moxi" revision="dae52370a3c5c576cb55fc07f9e00f079357170c" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
-  <project name="ns_server" revision="de5001934e49cd19ec462817c91ae63acda00c35" upstream="master"/>
+  <project name="ns_server" revision="be9e36c17582ec03c671e25ef544ebdd67d74f10" upstream="master"/>
   <project name="platform" revision="a44eb642b2edafe4d9d017d6c98b6ad25a051f46" upstream="sherlock"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="18d4334b7db85948f34fb1c637e2db59d4cc9da8" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="sigar" revision="829a4c032705b78ae3e2aeb4124dcb6faae51309" upstream="master"/>
-  <project name="testrunner" revision="ce8481f9a531f3f417795e1ed4d148fa6317ba20" upstream="master"/>
+  <project name="testrunner" revision="6330d91ec5066ef9806e6ea2095ea63c493d727d" upstream="master"/>
   <project name="tlm" revision="24d44145c4edbf540bc65a4b0122c6c2abf6d38e" upstream="sherlock">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
