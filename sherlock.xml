@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="7ae606bf660dfafefe12ca732d44b18f897773ec" upstream="master">
-    <annotation name="BLD_NUM" value="4541"/>
+    <annotation name="BLD_NUM" value="4542"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -35,7 +35,7 @@
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="7451ab4fa283b755eb083b4cc2fcf824b25e0756" upstream="master"/>
   <project name="goprotobuf" path="godeps/src/code.google.com/p/goprotobuf" remote="couchbasedeps" revision="682707530d5a3d6cb757dfe8fa322d0fde7621c6"/>
   <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="1396920eda92b85a0902b3dbbc6da8dff5ceec64" upstream="master"/>
-  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="ff71d292ad3229afc9230c81c67922d4792c2165" upstream="master"/>
+  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="b1e9331e3340d14b13f009055dbcad84050aed61" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="a7a7729d2d46854d2759814167722e0e5618d2fc" upstream="sherlock"/>
   <project name="moxi" revision="dae52370a3c5c576cb55fc07f9e00f079357170c" upstream="master"/>
