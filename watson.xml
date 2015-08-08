@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="git://github.com/couchbase/" name="couchbase" review="review.couchbase.org"/>
+  
+  <default remote="couchbase" revision="master"/>
+  
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="9062103b1ca02240b78795ea626ee2a33344b5f6" upstream="master">
+    <annotation name="BLD_NUM" value="0"/>
+    <annotation name="RELEASE" value="@RELEASE@"/>
+    <annotation name="EDITION" value="@EDITION@"/>
+  </project>
+</manifest>
