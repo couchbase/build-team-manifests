@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="6f7dbd5eb4f869c034f90f1e6562bcc05f98dcc7" upstream="master">
-    <annotation name="BLD_NUM" value="49"/>
+    <annotation name="BLD_NUM" value="50"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -19,7 +19,7 @@
   <project name="couchbase-python-client" revision="d3e69f6c1eb9ec8fbc240b79bb228fe366e8295f" upstream="couchbase-181"/>
   <project name="couchdb" revision="9216b42664253bda8ecedac719386d2a09b7b33e" upstream="master"/>
   <project groups="notdefault,packaging" name="couchdbx-app" revision="e6876e627422d3f769cc850850ec512a2d0847cf" upstream="master"/>
-  <project name="couchstore" revision="346633ad1341821198ea1938ccf81ad78ff25d0b" upstream="master"/>
+  <project name="couchstore" revision="4f39838683f5dbedfa40193974ec9ed49caf4856" upstream="master"/>
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master"/>
   <project name="ep-engine" revision="b09116f03d17337c8f740c25714a98eff95f0d7d" upstream="master"/>
   <project name="forestdb" revision="5a4c4e63c709b51e95c4f8fb7caf13caa4af439e" upstream="master"/>
