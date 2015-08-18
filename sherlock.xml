@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="a93117a31857049dc27568623a4a82ddb8daad4c" upstream="master">
-    <annotation name="BLD_NUM" value="4645"/>
+    <annotation name="BLD_NUM" value="4646"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -21,7 +21,7 @@
   <project groups="notdefault,packaging" name="couchdbx-app" revision="e6876e627422d3f769cc850850ec512a2d0847cf" upstream="master"/>
   <project name="couchstore" revision="dfab1c7a10c469a1bd09e01317ad49d90ac030a9" upstream="sherlock"/>
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master"/>
-  <project name="ep-engine" revision="0b3914c9b0e44065a5333dad85e3449c81a07e4d" upstream="sherlock"/>
+  <project name="ep-engine" revision="744aedc30aef511f3b9cd864bcc32373f03c83f0" upstream="sherlock"/>
   <project name="forestdb" revision="606c32b506e1c6d1b7e9610ee24463178235fa61" upstream="sherlock"/>
   <project name="geocouch" revision="a8b9540e38ca9c116fadfe7c3d163f693b3b2300" upstream="sherlock"/>
   <project name="go-couchbase" path="godeps/src/github.com/couchbase/go-couchbase" revision="26011e20e9e19849a3382b21db391db4ceae45b7" upstream="master"/>
