@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="eff7d2b6f817aa51e11c626766b2ac6f9ae2a276" upstream="master">
-    <annotation name="BLD_NUM" value="117"/>
+    <annotation name="BLD_NUM" value="118"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -33,7 +33,7 @@
   <project name="gojson" path="godeps/src/github.com/dustin/gojson" remote="couchbasedeps" revision="af16e0e771e2ed110f2785564ae33931de8829e4"/>
   <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="bacc8feaab285fcbf076cde5e44d91aa1d249eb0" upstream="master"/>
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="7451ab4fa283b755eb083b4cc2fcf824b25e0756" upstream="master"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="3c4235183ef9ecf391d8b8d760bf717226c0ec92" upstream="master"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="f8ffc3a799651d18946372a9a040e202c6fe9629" upstream="master"/>
   <project name="gtest" remote="couchbasedeps" revision="81521948620e1643b85aaf8501df7b3acd1bd3d9"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="f32c0d16c68778dd38eefb0298cde2e0229e4bf7" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
