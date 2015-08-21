@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="eff7d2b6f817aa51e11c626766b2ac6f9ae2a276" upstream="master">
-    <annotation name="BLD_NUM" value="113"/>
+    <annotation name="BLD_NUM" value="114"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -37,7 +37,7 @@
   <project name="gtest" remote="couchbasedeps" revision="81521948620e1643b85aaf8501df7b3acd1bd3d9"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="c92f9970d9012aa6b239866b9e83d74d7029b822" upstream="master"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
-  <project name="memcached" revision="4eb3e3a7bbe45886877d9dfb30d0867fc08ceb3d" upstream="master"/>
+  <project name="memcached" revision="14252bb984a1d2ea4262297edc06a0a660464501" upstream="master"/>
   <project name="moxi" revision="dae52370a3c5c576cb55fc07f9e00f079357170c" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
