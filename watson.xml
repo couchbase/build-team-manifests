@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="fa3de32cc309eee848dc154f8211169327769853" upstream="master">
-    <annotation name="BLD_NUM" value="167"/>
+    <annotation name="BLD_NUM" value="168"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -46,7 +46,7 @@
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="e6e91991e8135f36cf7c810e1a10c79af6282554" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
-  <project name="sigar" revision="829a4c032705b78ae3e2aeb4124dcb6faae51309" upstream="master"/>
+  <project name="sigar" revision="83bd88595f558987731a1baa3330f641bc36554c" upstream="master"/>
   <project name="subjson" revision="9f0cd35997b349437c4db888a5a150ac03af36b3" upstream="master"/>
   <project name="testrunner" revision="8cfcb3a72ff1ab27cabb31b4ec873ec8b730e74c" upstream="master"/>
   <project name="tlm" revision="fb4a51147cc4e6e008dbd5db54b378f2adff2e18" upstream="master">
