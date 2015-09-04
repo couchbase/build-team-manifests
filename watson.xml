@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="e39bf3572d3419a94580f1f31c87a6c13dad8be5" upstream="master">
-    <annotation name="BLD_NUM" value="196"/>
+    <annotation name="BLD_NUM" value="197"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -42,7 +42,7 @@
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
   <project name="ns_server" revision="d8b72cfb9e319de821bd1edde064f6cbd5c6cf15" upstream="master"/>
-  <project name="platform" revision="b7dbc3252dd03b03984b8837f9001e8ed1f7c5a9" upstream="master"/>
+  <project name="platform" revision="3eff9f49f0a7b1295d172dd1955a0b9f6affc296" upstream="master"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="e6e91991e8135f36cf7c810e1a10c79af6282554" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
