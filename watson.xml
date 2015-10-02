@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="1383ebb8f2611a13b2a06b14d175aa47df1e8e08" upstream="master">
-    <annotation name="BLD_NUM" value="349"/>
+    <annotation name="BLD_NUM" value="350"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -49,7 +49,7 @@
   <project name="sigar" revision="83bd88595f558987731a1baa3330f641bc36554c" upstream="master"/>
   <project name="subjson" revision="cc089f2179a92f3fe2f8cf9e5234af24f212d8f0" upstream="master"/>
   <project name="testrunner" revision="cc534588532713ad430a260b67247980c468b275" upstream="master"/>
-  <project name="tlm" revision="e06741d4cd704dd8b0e2960c1300404044f61ef7" upstream="master">
+  <project name="tlm" revision="07c1b0201eae06a616f586ce217200d43548cbea" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
