@@ -15,13 +15,13 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="9b29cb335b31e3fff943084149180362bef868e8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="643d3dd91605e0ea997fe4524b8e2a043d3837d5" upstream="master">
-    <annotation name="BLD_NUM" value="525"/>
+    <annotation name="BLD_NUM" value="526"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
   <project name="cbauth" path="godeps/src/github.com/couchbase/cbauth" revision="1323b92ac2619c29d50e588e59d7a6b4839da629" upstream="master"/>
   <project name="cbft" path="goproj/src/github.com/couchbase/cbft" revision="0adc484f8dafef49ba6e0b97e370133fc25c4626" upstream="master"/>
-  <project name="cbgt" path="godeps/src/github.com/couchbase/cbgt" revision="7e6a6dc6cfcec7cd8e70757cc963e39e772be0ea" upstream="master"/>
+  <project name="cbgt" path="godeps/src/github.com/couchbase/cbgt" revision="bad5a30e491a8348188ffaee26a50d6b7b4038e4" upstream="master"/>
   <project name="clog" path="godeps/src/github.com/couchbase/clog" revision="e0f356188f6f2f3098eb7dbc9082801dffc3f1a8" upstream="master"/>
   <project name="context" path="godeps/src/github.com/gorilla/context" remote="couchbasedeps" revision="215affda49addc4c8ef7e2534915df2c8c35c6cd"/>
   <project name="couchbase-cli" revision="706886dec7337d1739ac5431aa623817212f7bc9" upstream="master"/>
