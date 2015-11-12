@@ -15,8 +15,8 @@
   <project name="bleve-mapping-ui" path="godeps/src/github.com/blevesearch/bleve-mapping-ui" remote="blevesearch" revision="7c403f91b316798d7744f67e27f08e129f4e4b45"/>
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="fc7077363781f5cf26951e91eaf0d1ccbe07df30"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
-  <project groups="notdefault,build" name="build" path="cbbuild" revision="d8fb68d563b989b6cc55dbf7d4417400bb98c6b6" upstream="master">
-    <annotation name="BLD_NUM" value="583"/>
+  <project groups="notdefault,build" name="build" path="cbbuild" revision="3662888bbf5fe8178748e350adf09f90459927b6" upstream="master">
+    <annotation name="BLD_NUM" value="584"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
