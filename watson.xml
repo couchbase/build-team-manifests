@@ -16,7 +16,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="fc7077363781f5cf26951e91eaf0d1ccbe07df30"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="c6acf099e949d759f4cd32eb5c17d1b55d598da7" upstream="master">
-    <annotation name="BLD_NUM" value="608"/>
+    <annotation name="BLD_NUM" value="609"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -77,5 +77,5 @@
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="03ad040ecb4bb16a57633ef0efc8a4defe0d715c" upstream="master"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="7ec95757baaacd72ba76b84d9db14804047be9b2" upstream="master"/>
 </manifest>
