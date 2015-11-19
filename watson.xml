@@ -16,7 +16,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="fc7077363781f5cf26951e91eaf0d1ccbe07df30"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="13a5eed6ac385dcd8bddb2eb61771aa0d37bc786" upstream="master">
-    <annotation name="BLD_NUM" value="639"/>
+    <annotation name="BLD_NUM" value="640"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
