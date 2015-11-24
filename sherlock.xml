@@ -7,7 +7,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,build" name="build" path="cbbuild" revision="9a4d82520c404d70f59ae66cc91a5c26a0bca4b7" upstream="sherlock">
-    <annotation name="BLD_NUM" value="5502"/>
+    <annotation name="BLD_NUM" value="5503"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -53,5 +53,5 @@
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="d05cec8cfff261b39e7fd6e114e0bd1466f908b1" upstream="sherlock"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="8d8c48b16026363915ab01b1e933c9505cfc2e67" upstream="sherlock"/>
 </manifest>
