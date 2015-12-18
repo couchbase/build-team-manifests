@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="86247885e04c01cbf39f7734a1755da6811ac291"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="73dec17f338700dbcbc4da3156ea8a055e1cb1c8" upstream="master">
-    <annotation name="BLD_NUM" value="817"/>
+    <annotation name="BLD_NUM" value="818"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -57,7 +57,7 @@
   <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="db3e267efc9af85abbf870f69e0d719271ecfd73" upstream="master"/>
   <project name="gtest" remote="couchbasedeps" revision="81521948620e1643b85aaf8501df7b3acd1bd3d9"/>
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70"/>
-  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="7be03e7723983a5db5ce382a291349fefa517fb8" upstream="master"/>
+  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="8acc0588675681ed517f6b309f89181ea4f7cc32" upstream="master"/>
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="50b6dfcea8a38ee3210043cda740d4114750e6ac" upstream="master"/>
