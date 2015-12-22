@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="86247885e04c01cbf39f7734a1755da6811ac291"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="aab2d3dc1eb61ace36aa67d2e486cb31149e2d17" upstream="master">
-    <annotation name="BLD_NUM" value="843"/>
+    <annotation name="BLD_NUM" value="844"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -51,7 +51,7 @@
   <project name="golang-snappy" path="godeps/src/github.com/golang/snappy" remote="couchbasedeps" revision="723cc1e459b8eea2dea4583200fd60757d40097a"/>
   <project name="goleveldb" path="godeps/src/github.com/syndtr/goleveldb" remote="couchbasedeps" revision="1a9d62f03ea92815b46fcaab357cfd4df264b1a0"/>
   <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="e6b066df51ddb9d0dd059b873f9f03694e9af94d" upstream="master"/>
-  <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="7451ab4fa283b755eb083b4cc2fcf824b25e0756" upstream="master"/>
+  <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="5ad41f27a2fcc357769dfc1d7f4118828019f2d1" upstream="master"/>
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273"/>
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846"/>
   <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="a1846db5d691d86cc613f112e6153e2f1200c615" upstream="master"/>
