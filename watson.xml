@@ -10,7 +10,7 @@
   <default remote="couchbase" revision="master"/>
   
   <project groups="notdefault,clion" name="CLion-Project-Setup" path=".idea" remote="couchbaselabs" revision="a46128fb614e391045f9d7c7bb7e91e55888070f" upstream="master"/>
-  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="b07ebd0320bd9056be11deddddfb57f7e422afa8" upstream="master"/>
+  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="a68a7ade5c4f94228c217aa389d995ba17a82edf" upstream="master"/>
   <project name="bitset" path="godeps/src/github.com/willf/bitset" remote="couchbasedeps" revision="28a4168144bb8ac95454e1f51c84da1933681ad4"/>
   <project name="blance" path="godeps/src/github.com/couchbase/blance" revision="8a44cfcdf8d1566e534f34b947c0c5e519233973" upstream="master"/>
   <project name="bleve" path="godeps/src/github.com/blevesearch/bleve" remote="blevesearch" revision="8efbd556a3b7daed4dfc82351be0e4b51543d282"/>
@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="86247885e04c01cbf39f7734a1755da6811ac291"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="3ebff03b88d4bcdd356cce3a5d4c3ba59405da2f" upstream="master">
-    <annotation name="BLD_NUM" value="881"/>
+    <annotation name="BLD_NUM" value="882"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
