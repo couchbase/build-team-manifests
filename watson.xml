@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="86247885e04c01cbf39f7734a1755da6811ac291"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="3ebff03b88d4bcdd356cce3a5d4c3ba59405da2f" upstream="master">
-    <annotation name="BLD_NUM" value="921"/>
+    <annotation name="BLD_NUM" value="922"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -61,11 +61,11 @@
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
   <project name="memcached" revision="a09f2deb8b57a605758528713537d2397af50266" upstream="master"/>
-  <project name="moxi" revision="6df29f93c935e16479a72c4a11c488b8673f5e0d" upstream="master"/>
+  <project name="moxi" revision="5ab60b49048b8f6d93386a30ff743a8e5daa7c7a" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
   <project name="ns_server" revision="8139caa0afe323210845ede4a2cfa47ccf5bf024" upstream="master"/>
-  <project name="platform" revision="feec6c86662c36dacf3bbafbb3f0d610fcb8b85e" upstream="master"/>
+  <project name="platform" revision="23b4c6b60a4c109475f367f7a7ee7c5c88726a33" upstream="master"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="b9c44b3f83757170255afd4fb3f314f742ff71fc" upstream="master"/>
   <project name="query-ui" revision="b228e33dc3a91e18289a856d6c135f6b85f70a1a" upstream="master"/>
