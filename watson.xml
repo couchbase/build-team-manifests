@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="bce79f677ec769471cf19ba88dd8a6e4da0ba3ef"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="45388acd4c06d08d6fb79df1522ebe61b14ce0b6" upstream="master">
-    <annotation name="BLD_NUM" value="1040"/>
+    <annotation name="BLD_NUM" value="1041"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -77,7 +77,7 @@
   <project name="subjson" revision="91577587b2cfdb58203ad2cc827c1eaf55a9dd12" upstream="master"/>
   <project name="testrunner" revision="fcc0b6520e592c5a1ab98ab9db6ce99d425d8f34" upstream="master"/>
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15"/>
-  <project name="tlm" revision="966412d30471d9439888d264d146783e0402ee04" upstream="master">
+  <project name="tlm" revision="ac5c5f03c2f383c3e7db3d168ff24795f9ca8a05" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
