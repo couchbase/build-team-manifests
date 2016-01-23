@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="7801f55017844478abfaac8619b8be01ab85d8d9"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="6523afe1b89feb0934a5628606ade7ea2aba509e" upstream="master">
-    <annotation name="BLD_NUM" value="1099"/>
+    <annotation name="BLD_NUM" value="1100"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -56,7 +56,7 @@
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="5ad41f27a2fcc357769dfc1d7f4118828019f2d1" upstream="master"/>
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273"/>
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="a1846db5d691d86cc613f112e6153e2f1200c615" upstream="master"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="de935d1f2651acefe0f768d9b2c719b2f342cfb9" upstream="master"/>
   <project name="gtest" remote="couchbasedeps" revision="81521948620e1643b85aaf8501df7b3acd1bd3d9"/>
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="3c22df53c3689eef93a0a9010d204ab021f3acc2" upstream="master"/>
