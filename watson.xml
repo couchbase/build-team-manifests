@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="4df87033ef8378e9e6a968c29f382ab5fc10def8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="8a346fcc181810173e573ff68b91cbfff28c14ac" upstream="master">
-    <annotation name="BLD_NUM" value="1165"/>
+    <annotation name="BLD_NUM" value="1166"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -28,7 +28,7 @@
   <project groups="notdefault,enterprise" name="cbq-gui" path="goproj/src/github.com/couchbase/cbq-gui" remote="couchbase-priv" revision="fdfdcce5031ae4e1e8f309ddcc3ff25675849c4b" upstream="master"/>
   <project name="clog" path="godeps/src/github.com/couchbase/clog" revision="eebc98233c3e032eb6b9036575d51324ab5932e6" upstream="master"/>
   <project name="context" path="godeps/src/github.com/gorilla/context" remote="couchbasedeps" revision="215affda49addc4c8ef7e2534915df2c8c35c6cd"/>
-  <project name="couchbase-cli" revision="1d816159f1b2e15444b7ba3ea034956499a5349f" upstream="master"/>
+  <project name="couchbase-cli" revision="a68be96c11fcc2a01adb6b5c7eb55f7583c221c6" upstream="master"/>
   <project name="couchbase-examples" revision="a17432c391b2e8f443bbff2c5eeece37eecaf474" upstream="master"/>
   <project name="couchbase-python-client" revision="d3e69f6c1eb9ec8fbc240b79bb228fe366e8295f" upstream="couchbase-181"/>
   <project name="couchdb" revision="e824e5aee9a6833d8356cfc66e4e28657ec52d28" upstream="master"/>
