@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="4df87033ef8378e9e6a968c29f382ab5fc10def8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="781970b301fdd349f5e3e005bd4b764443cdd259" upstream="master">
-    <annotation name="BLD_NUM" value="1160"/>
+    <annotation name="BLD_NUM" value="1161"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -70,7 +70,7 @@
   <project name="ns_server" revision="7b80eb8998d861a1abc900e63c0dc95971f3e857" upstream="master"/>
   <project name="platform" revision="49a09ba1764642e7424a67068bedef72c2306605" upstream="master"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
-  <project name="query" path="goproj/src/github.com/couchbase/query" revision="f149f2f3c7b16055bef175297f75b4f40e6964cb" upstream="master"/>
+  <project name="query" path="goproj/src/github.com/couchbase/query" revision="1c627d191ddbf001ee4e9f19cd3e1440a8a4925f" upstream="master"/>
   <project name="query-ui" revision="fc9aaf583ef92de3f09f4e7552c6c0a53db59011" upstream="master"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master"/>
   <project name="segment" path="godeps/src/github.com/blevesearch/segment" remote="blevesearch" revision="f64a3875a6185ea3928b8b76fbb0c370e6187dfd"/>
