@@ -18,11 +18,11 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="4df87033ef8378e9e6a968c29f382ab5fc10def8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="9889b707bfb46e6121e967f71f90e8d277842f8a" upstream="master">
-    <annotation name="BLD_NUM" value="1193"/>
+    <annotation name="BLD_NUM" value="1194"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
-  <project name="cbauth" path="godeps/src/github.com/couchbase/cbauth" revision="a840e22887269ef4807d923141900a572678080d" upstream="master"/>
+  <project name="cbauth" path="godeps/src/github.com/couchbase/cbauth" revision="ff0d7339a1e3c72d08eef5d32dc5980ac4a6cdfa" upstream="master"/>
   <project name="cbft" path="goproj/src/github.com/couchbase/cbft" revision="635462db02ebffd9ae74d3481143d6c9295d1586" upstream="master"/>
   <project name="cbgt" path="goproj/src/github.com/couchbase/cbgt" revision="40766f1fd78c05f9bc4b718c2e1ac1544ba7ad92" upstream="master"/>
   <project groups="notdefault,enterprise" name="cbq-gui" path="goproj/src/github.com/couchbase/cbq-gui" remote="couchbase-priv" revision="fdfdcce5031ae4e1e8f309ddcc3ff25675849c4b" upstream="master"/>
