@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="4df87033ef8378e9e6a968c29f382ab5fc10def8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="5680f8460214088101ef40c0435d10d305fd7c41" upstream="master">
-    <annotation name="BLD_NUM" value="1205"/>
+    <annotation name="BLD_NUM" value="1206"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -49,7 +49,7 @@
   <project name="go-zookeeper" path="godeps/src/github.com/samuel/go-zookeeper" remote="couchbasedeps" revision="fa6674abf3f4580b946a01bf7a1ce4ba8766205b"/>
   <project name="go_n1ql" path="godeps/src/github.com/couchbase/go_n1ql" revision="7dfdc7fac8bfc1077976c478e02be4f81f7d85cf" upstream="master"/>
   <project name="gocb" path="godeps/src/github.com/couchbase/gocb" revision="4fec6cf3501389515568eb577eb5d4f589018ae1"/>
-  <project name="goforestdb" path="godeps/src/github.com/couchbase/goforestdb" revision="4ad4b4c99ac5133693871d50f0a1afac8bcd04db" upstream="master"/>
+  <project name="goforestdb" path="godeps/src/github.com/couchbase/goforestdb" revision="c798af0883d76956c45d1896b98f8de792406f29" upstream="master"/>
   <project name="gojson" path="godeps/src/github.com/dustin/gojson" remote="couchbasedeps" revision="af16e0e771e2ed110f2785564ae33931de8829e4"/>
   <project name="golang-snappy" path="godeps/src/github.com/golang/snappy" remote="couchbasedeps" revision="723cc1e459b8eea2dea4583200fd60757d40097a"/>
   <project name="goleveldb" path="godeps/src/github.com/syndtr/goleveldb" remote="couchbasedeps" revision="1a9d62f03ea92815b46fcaab357cfd4df264b1a0"/>
