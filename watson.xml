@@ -18,7 +18,7 @@
   <project name="blevex" path="godeps/src/github.com/blevesearch/blevex" remote="blevesearch" revision="4df87033ef8378e9e6a968c29f382ab5fc10def8"/>
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="7aedc62666676e9a5614706c1a9cb5499eabf226" upstream="master">
-    <annotation name="BLD_NUM" value="1197"/>
+    <annotation name="BLD_NUM" value="1198"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -67,7 +67,7 @@
   <project name="moxi" revision="5ab60b49048b8f6d93386a30ff743a8e5daa7c7a" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
-  <project name="ns_server" revision="690ad065f4793f53231c0b757d6c1f7d44693106" upstream="master"/>
+  <project name="ns_server" revision="b4fde7c414e03201a236366c43d7909f5034893c" upstream="master"/>
   <project name="platform" revision="49a09ba1764642e7424a67068bedef72c2306605" upstream="master"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="07c9a5a265a7077f6edd908edd252d7b10352554" upstream="master"/>
@@ -76,7 +76,7 @@
   <project name="segment" path="godeps/src/github.com/blevesearch/segment" remote="blevesearch" revision="f64a3875a6185ea3928b8b76fbb0c370e6187dfd"/>
   <project name="sigar" revision="83bd88595f558987731a1baa3330f641bc36554c" upstream="master"/>
   <project name="subjson" revision="2c682b47200a846c0f0274c2b2d20f3da09e3905" upstream="master"/>
-  <project name="testrunner" revision="5ce72b2a22e863249b91d9c046af09a2c92c86af" upstream="master"/>
+  <project name="testrunner" revision="836ba685a62435e0296639843e0dd026ea1fcb22" upstream="master"/>
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15"/>
   <project name="tlm" revision="d7f2898dee3685e01e550b3f80939c05e60e42e5" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
