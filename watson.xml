@@ -18,12 +18,12 @@
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="5ff603732efd1128328c3469f91f277d990c0869" upstream="master">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="1292"/>
+    <annotation name="BLD_NUM" value="1293"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
   <project name="cbauth" path="godeps/src/github.com/couchbase/cbauth" revision="ff0d7339a1e3c72d08eef5d32dc5980ac4a6cdfa" upstream="master"/>
-  <project name="cbft" path="goproj/src/github.com/couchbase/cbft" revision="959b19d8983f3b7d9943e0519564cac1384a24ac" upstream="master"/>
+  <project name="cbft" path="goproj/src/github.com/couchbase/cbft" revision="2e9aa54e85574502e2dc0ebe2edaf25eba3d78b3" upstream="master"/>
   <project name="cbgt" path="goproj/src/github.com/couchbase/cbgt" revision="8c835453495f7033e7de332c093bf6c7500ebbb7" upstream="master"/>
   <project groups="notdefault,enterprise" name="cbq-gui" path="goproj/src/github.com/couchbase/cbq-gui" remote="couchbase-priv" revision="fdfdcce5031ae4e1e8f309ddcc3ff25675849c4b" upstream="master"/>
   <project name="clog" path="godeps/src/github.com/couchbase/clog" revision="eebc98233c3e032eb6b9036575d51324ab5932e6" upstream="master"/>
