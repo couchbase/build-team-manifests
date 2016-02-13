@@ -18,7 +18,7 @@
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="f8661d59c2c4b0857f243a42e968fabba78b4361">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="1302"/>
+    <annotation name="BLD_NUM" value="1303"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -57,7 +57,7 @@
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="d00710035dc7929e975cd087a3656a22aad18b23"/>
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273"/>
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="de935d1f2651acefe0f768d9b2c719b2f342cfb9"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="de935d1f2651acefe0f768d9b2c719b2f342cfb9" upstream="watson-dp1"/>
   <project groups="kv" name="gtest" remote="couchbasedeps" revision="84819c7bb609ab0f8ecc464b0a80bf9d8e980cf5"/>
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="62b18ecbcc2e66416128d2dfba20946212c4564e"/>
@@ -71,7 +71,7 @@
   <project groups="kv" name="platform" revision="a12f9800b803914706e8744848a27e4302de6b6c"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="7bc00d32907047501b06d6ec54118764eb201f9d"/>
-  <project name="query-ui" revision="c51bc2d3c08bab2d496dc47ecbe1325d3eb4c700"/>
+  <project name="query-ui" revision="b1ddb159d80397dd579d51928a0db29c271d6921"/>
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17"/>
   <project name="segment" path="godeps/src/github.com/blevesearch/segment" remote="blevesearch" revision="f64a3875a6185ea3928b8b76fbb0c370e6187dfd"/>
   <project groups="kv" name="sigar" revision="83bd88595f558987731a1baa3330f641bc36554c"/>
