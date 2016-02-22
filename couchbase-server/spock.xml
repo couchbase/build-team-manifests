@@ -19,7 +19,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="314" />
+    <annotation name="BLD_NUM" value="315" />
     <annotation name="VERSION" value="4.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -68,7 +68,7 @@
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="dade9b913d20424034b211cee368773887c88c72" upstream="master" />
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b" />
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50" />
-  <project groups="kv" name="memcached" revision="9fbd737d6890cb0a1cbcec2d19910b24c0072169" upstream="master" />
+  <project groups="kv" name="memcached" revision="92c14455ec9adbf064a421bf2c0f4198f4115132" upstream="master" />
   <project groups="kv" name="moxi" revision="5ab60b49048b8f6d93386a30ff743a8e5daa7c7a" upstream="master" />
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b" />
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f" />
