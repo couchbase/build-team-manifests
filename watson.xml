@@ -18,7 +18,7 @@
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="75a647e2ad4a6ec8e2480943c0e6270121527b03" upstream="master">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="1630"/>
+    <annotation name="BLD_NUM" value="1631"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -64,7 +64,7 @@
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="365a9cf7c675d0eed33ebdf50e96a1103cff5e6e" upstream="master"/>
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
-  <project groups="kv" name="memcached" revision="91817ebd29928f4717fda3b6ef7ef822230597cf" upstream="master"/>
+  <project groups="kv" name="memcached" revision="8205f400e017c8dd01bc6517bfbc7231adc0eaf0" upstream="master"/>
   <project name="moss" path="godeps/src/github.com/couchbase/moss" revision="9285784082634116c51394ae0bb9e686bef87159" upstream="master"/>
   <project groups="kv" name="moxi" revision="5ab60b49048b8f6d93386a30ff743a8e5daa7c7a" upstream="master"/>
   <project name="mux" path="godeps/src/github.com/gorilla/mux" remote="couchbasedeps" revision="8a875a034c69b940914d83ea03d3f1299b4d094b"/>
