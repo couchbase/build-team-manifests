@@ -18,7 +18,7 @@
   <project name="bolt" path="godeps/src/github.com/boltdb/bolt" remote="couchbasedeps" revision="51f99c862475898df9773747d3accd05a7ca33c1"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="8d8b423bcd4aae9e348999782287958c57ec7eb8" upstream="master">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="1654"/>
+    <annotation name="BLD_NUM" value="1655"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -80,7 +80,7 @@
   <project groups="kv" name="subjson" revision="4b8ca4d14be91cf36219a1c73a09fcbf45dbee82" upstream="master"/>
   <project name="testrunner" revision="4f54ced04cb4c7fe0e5ea9b24ebe6a9f97be33ff" upstream="master"/>
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15"/>
-  <project groups="kv" name="tlm" revision="489e93a1e0d4263719b78ccc97786e37af2ce34b" upstream="master">
+  <project groups="kv" name="tlm" revision="17addee4a4b90c042a8c77484de15f8309724ee0" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
