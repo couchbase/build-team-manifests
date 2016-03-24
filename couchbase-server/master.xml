@@ -19,7 +19,7 @@
     <annotation name="RELEASE" value="master" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="88" />
+    <annotation name="BLD_NUM" value="89" />
     <annotation name="VERSION" value="0.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
