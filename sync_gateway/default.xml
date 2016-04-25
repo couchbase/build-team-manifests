@@ -13,11 +13,11 @@
   <default remote="couchbase" revision="master" />
   
   <project name="blance" path="godeps/src/github.com/couchbase/blance" revision="3d39b57188c372649beedd5c13c9003156d5a055" />
-  <project name="build" path="cbbuild" revision="c190dc6dc7037b4c4cab11c472c8e18f682226d9" upstream="master">
+  <project name="build" path="cbbuild" revision="d5a20f1de9fcb0ceb4e09b96d004df6e97d578c3" upstream="master">
     <annotation name="RELEASE" value="default" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="138" />
+    <annotation name="BLD_NUM" value="139" />
     <annotation name="VERSION" value="1.3.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
