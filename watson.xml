@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="cf5afb46b72bd5915bdd1b408e74af8af4d4f9b6" upstream="master">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="2479"/>
+    <annotation name="BLD_NUM" value="2480"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -84,7 +84,7 @@
   <project name="strconv" path="godeps/src/github.com/tdewolff/strconv" remote="couchbasedeps" revision="9b189f5be77f33c46776f24dbddb2a7ab32af214"/>
   <project groups="kv" name="subjson" revision="65d3f053e2d968aea00b60234a42e1d1c5b9f6d2" upstream="master"/>
   <project groups="solaris,notdefault" name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="9d4e42a20653790449273b3c85e67d6d8bae6e2e"/>
-  <project name="testrunner" revision="02907386d887d218967a7b115167f263108dae32" upstream="master"/>
+  <project name="testrunner" revision="1211f6f2ad1789a73a3da62e2d5172c60dd3e3e7" upstream="master"/>
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15"/>
   <project groups="kv" name="tlm" revision="9603fc99c0b823ffba3d3079b36509054ef08a61" upstream="watson">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
