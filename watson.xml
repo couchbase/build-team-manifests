@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="0c3bc3b83ac9fc93bbb1b78b4695df35c5d8f288" upstream="master">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="2571"/>
+    <annotation name="BLD_NUM" value="2572"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -28,7 +28,7 @@
   <project groups="notdefault,enterprise" name="cbq-gui" path="goproj/src/github.com/couchbase/cbq-gui" remote="couchbase-priv" revision="1e19e5e34b64ca6b43a37de6166dac6e76803848" upstream="master"/>
   <project name="clog" path="godeps/src/github.com/couchbase/clog" revision="eebc98233c3e032eb6b9036575d51324ab5932e6" upstream="master"/>
   <project name="context" path="godeps/src/github.com/gorilla/context" remote="couchbasedeps" revision="215affda49addc4c8ef7e2534915df2c8c35c6cd"/>
-  <project name="couchbase-cli" revision="d692ff1c10cba3b31cdd5dd1fd52be1a4aebec6c" upstream="master"/>
+  <project name="couchbase-cli" revision="259e0542b483ddcc958e7bc77a053a3eb27342ec" upstream="master"/>
   <project name="couchbase-examples" revision="04992de19d0f2b05110412fec1fe56e8dc5992b6" upstream="master"/>
   <project name="couchdb" revision="7ad0cfa695ecd59bda988e2e104911ef1367fd57" upstream="watson"/>
   <project groups="notdefault,packaging" name="couchdbx-app" revision="1e45140920f0ef7c763273970a05265810ef676a" upstream="master"/>
