@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="0c3bc3b83ac9fc93bbb1b78b4695df35c5d8f288">
     <annotation name="VERSION" value="4.5.0"/>
-    <annotation name="BLD_NUM" value="2596"/>
+    <annotation name="BLD_NUM" value="2597"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -31,7 +31,7 @@
   <project name="couchbase-cli" revision="259e0542b483ddcc958e7bc77a053a3eb27342ec"/>
   <project name="couchbase-examples" revision="04992de19d0f2b05110412fec1fe56e8dc5992b6"/>
   <project name="couchdb" revision="7ad0cfa695ecd59bda988e2e104911ef1367fd57" upstream="watson"/>
-  <project groups="notdefault,packaging" name="couchdbx-app" revision="1e45140920f0ef7c763273970a05265810ef676a"/>
+  <project groups="notdefault,packaging" name="couchdbx-app" revision="282a807b29cf50e4cba279a2b686a0f631f4ffa0"/>
   <project groups="kv" name="couchstore" revision="452a77c39798cb8574e091d72acffe4c9cadbb21" upstream="watson"/>
   <project name="crypto" path="godeps/src/golang.org/x/crypto" remote="couchbasedeps" revision="f23ba3a5ee43012fcb4b92e1a2a405a92554f4f2"/>
   <project name="cznic-b" path="godeps/src/github.com/cznic/b" remote="couchbasedeps" revision="b96e30f1b7bd34b0b9d8760798d67eca83d7f09e"/>
@@ -92,5 +92,5 @@
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
   <project name="ts" path="godeps/src/github.com/olekukonko/ts" remote="couchbasedeps" revision="ecf753e7c962639ab5a1fb46f7da627d4c0a04b8"/>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="6f92151cfe640d7adf84deaf6246183f7bf4c1fa"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="7f0db68093fed4449575e88f7ca8cc5868cf2113"/>
 </manifest>
