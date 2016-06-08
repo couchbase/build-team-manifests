@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="0c3bc3b83ac9fc93bbb1b78b4695df35c5d8f288">
     <annotation name="VERSION" value="4.5.1"/>
-    <annotation name="BLD_NUM" value="2717"/>
+    <annotation name="BLD_NUM" value="2718"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -86,7 +86,7 @@
   <project groups="solaris,notdefault" name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="9d4e42a20653790449273b3c85e67d6d8bae6e2e"/>
   <project name="testrunner" revision="d63ed33d4130ecac236711b4156d41328728e42e"/>
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15"/>
-  <project groups="kv" name="tlm" revision="b6f952dc911d4d28b440356e20d9bf25e3367043" upstream="watson">
+  <project groups="kv" name="tlm" revision="00c1e5392b15d2cf2af6117c5de85bd5e4f02e4b" upstream="watson">
     <copyfile dest="GNUmakefile" src="GNUmakefile"/>
     <copyfile dest="Makefile" src="Makefile"/>
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
