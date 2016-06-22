@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="3455af09052859d06e29f0bcf7c02f5b3fb94fe8">
     <annotation name="VERSION" value="4.5.1"/>
-    <annotation name="BLD_NUM" value="2731"/>
+    <annotation name="BLD_NUM" value="2732"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -53,7 +53,7 @@
   <project name="gojson" path="godeps/src/github.com/dustin/gojson" remote="couchbasedeps" revision="af16e0e771e2ed110f2785564ae33931de8829e4"/>
   <project name="golang-snappy" path="godeps/src/github.com/golang/snappy" remote="couchbasedeps" revision="723cc1e459b8eea2dea4583200fd60757d40097a"/>
   <project name="goleveldb" path="godeps/src/github.com/syndtr/goleveldb" remote="couchbasedeps" revision="1a9d62f03ea92815b46fcaab357cfd4df264b1a0"/>
-  <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="3ff4bc08dbca96c69b0a2053b5438317fc227e43" upstream="watson"/>
+  <project name="gomemcached" path="godeps/src/github.com/couchbase/gomemcached" revision="7a2327219a97402eb8d04fb2322333c68c1616bf" upstream="watson"/>
   <project name="gometa" path="goproj/src/github.com/couchbase/gometa" revision="cf50f11474d3cfb95c13d16cdca73928c9af6fae"/>
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273"/>
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846"/>
