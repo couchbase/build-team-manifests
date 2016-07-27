@@ -10,8 +10,8 @@
     <annotation name="RELEASE" value="0.8.9" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="analytics" />
-    <annotation name="BLD_NUM" value="122" />
+    <annotation name="BLD_NUM" value="123" />
     <annotation name="VERSION" value="0.8.9" />
   </project>
-  <project name="incubator-asterixdb" path="asterixdb" revision="8ac413693ef64a455a05b3d610f3257039d56a7d" upstream="master" />
+  <project name="incubator-asterixdb" path="asterixdb" revision="17da21a9c2bf0e400edf26bd5d01e75a5c12ba73" upstream="master" />
 </manifest>
