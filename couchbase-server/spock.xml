@@ -19,7 +19,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="953" />
+    <annotation name="BLD_NUM" value="954" />
     <annotation name="VERSION" value="4.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -79,7 +79,7 @@
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f" />
   <project name="ns_server" revision="eadada735ca393c3ab423f82e4612f9cf88f8072" upstream="master" />
   <project name="parse" path="godeps/src/github.com/tdewolff/parse" remote="couchbasedeps" revision="0334a869253aca4b3a10c56c3f3139b394aec3a9" />
-  <project groups="kv" name="phosphor" revision="7009edb4cb1fcbaf005ee3c6ff2537ccf877cea7" upstream="master" />
+  <project groups="kv" name="phosphor" revision="6d5080b2c83d5cf733a8f15b2538626c7ad921cc" upstream="master" />
   <project groups="kv" name="platform" revision="18cbe2143e8cfbde956c68e883f7a703dcab3772" upstream="master" />
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c" />
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="dc2c8878ce991efdf4fe191acab143647cbe3b24" upstream="master" />
