@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="3455af09052859d06e29f0bcf7c02f5b3fb94fe8">
     <annotation name="VERSION" value="4.5.1"/>
-    <annotation name="BLD_NUM" value="2818"/>
+    <annotation name="BLD_NUM" value="2819"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -62,7 +62,7 @@
   <project name="goutils" path="godeps/src/github.com/couchbase/goutils" revision="5823a0cbaaa9008406021dc5daf80125ea30bba6"/>
   <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="fba1ec98839bee85f1a7a7f813954595a125969a" upstream="watson"/>
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70"/>
-  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="0b3350b226651ef28e4554b123cbfd592c14d1e8" upstream="watson"/>
+  <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="290ea6f5c789900d03ab1e500a841654f242e6d0" upstream="watson"/>
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b"/>
   <project name="liner" path="godeps/src/github.com/peterh/liner" remote="couchbasedeps" revision="ad1edfd30321d8f006ccf05f1e0524adeb943060"/>
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50"/>
