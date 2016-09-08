@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1087" />
+    <annotation name="BLD_NUM" value="1088" />
     <annotation name="VERSION" value="4.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -41,7 +41,7 @@
   <project name="cznic-b" path="godeps/src/github.com/cznic/b" remote="couchbasedeps" revision="b96e30f1b7bd34b0b9d8760798d67eca83d7f09e" />
   <project name="docloader" path="goproj/src/github.com/couchbase/docloader" revision="2a898cbcae67924df16e337872e03a6faa3f0fdd" upstream="master" />
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master" />
-  <project groups="kv" name="ep-engine" revision="ad63b58467ceef8347e76ec3c511db90245a95ef" upstream="master" />
+  <project groups="kv" name="ep-engine" revision="103c6cb5846c557f3df4664bbd0fc027dad0d7b5" upstream="master" />
   <project groups="kv" name="forestdb" revision="be29903d63463988492be778a41947dac6fed9a8" upstream="master" />
   <project name="geocouch" revision="e41c993a9c2f915aa72dc982d4ac69b3c46bb7e9" upstream="master" />
   <project name="go-bindata-assetfs" path="godeps/src/github.com/elazarl/go-bindata-assetfs" remote="couchbasedeps" revision="57eb5e1fc594ad4b0b1dbea7b286d299e0cb43c2" />
