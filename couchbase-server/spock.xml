@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1101" />
+    <annotation name="BLD_NUM" value="1102" />
     <annotation name="VERSION" value="4.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -33,7 +33,7 @@
   <project groups="notdefault,enterprise" name="cbq-gui" path="goproj/src/github.com/couchbase/cbq-gui" remote="couchbase-priv" revision="db1f94ecd0e4cba06670a72ddb725d539c619588" upstream="master" />
   <project name="clog" path="godeps/src/github.com/couchbase/clog" revision="eebc98233c3e032eb6b9036575d51324ab5932e6" upstream="master" />
   <project name="context" path="godeps/src/github.com/gorilla/context" remote="couchbasedeps" revision="215affda49addc4c8ef7e2534915df2c8c35c6cd" />
-  <project name="couchbase-cli" revision="281e7943bb980d963bfb9aecbfaeaf2227ebcd77" upstream="master" />
+  <project name="couchbase-cli" revision="9aaf85e11a06880595584d4a23934e3aef4281e4" upstream="master" />
   <project name="couchdb" revision="ed40de6f786f0047212878dfe75571a97c37f700" upstream="master" />
   <project groups="notdefault,packaging" name="couchdbx-app" revision="641ca77b532d7ef7c2fda61578c50d6dea8adbb7" upstream="master" />
   <project groups="kv" name="couchstore" revision="1f655e5ee9d4a73809d4f13e0322b1907096176e" upstream="master" />
