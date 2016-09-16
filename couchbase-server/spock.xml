@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1118" />
+    <annotation name="BLD_NUM" value="1119" />
     <annotation name="VERSION" value="4.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -99,5 +99,5 @@
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt" />
   </project>
   <project name="ts" path="godeps/src/github.com/olekukonko/ts" remote="couchbasedeps" revision="ecf753e7c962639ab5a1fb46f7da627d4c0a04b8" />
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="4e24f7ff28f8091d1f7529824bdfb0bffbe9f55f" upstream="master" />
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="79b8f254df7adc16d00b2474a515702ad47b8862" upstream="master" />
 </manifest>
