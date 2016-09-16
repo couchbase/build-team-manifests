@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="3455af09052859d06e29f0bcf7c02f5b3fb94fe8">
     <annotation name="VERSION" value="4.6.0"/>
-    <annotation name="BLD_NUM" value="3283"/>
+    <annotation name="BLD_NUM" value="3284"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -93,5 +93,5 @@
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt"/>
   </project>
   <project name="ts" path="godeps/src/github.com/olekukonko/ts" remote="couchbasedeps" revision="ecf753e7c962639ab5a1fb46f7da627d4c0a04b8"/>
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="01206dafdebd1d2b3d4c85822f5713e3f37c09aa" upstream="watson"/>
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="1f6014fda65de61b44951818868c8648450f5290" upstream="watson"/>
 </manifest>
