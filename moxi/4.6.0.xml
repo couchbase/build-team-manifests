@@ -9,7 +9,7 @@
     <annotation name="RELEASE" value="4.6.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="moxi" />
-    <annotation name="BLD_NUM" value="100" />
+    <annotation name="BLD_NUM" value="101" />
     <annotation name="VERSION" value="4.6.0" />
   </project>
   <project groups="kv" name="googletest" remote="couchbasedeps" revision="f397fa5ec6365329b2e82eb2d8c03a7897bbefb5" />
