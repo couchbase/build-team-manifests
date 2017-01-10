@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1631" />
+    <annotation name="BLD_NUM" value="1632" />
     <annotation name="VERSION" value="5.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -98,7 +98,7 @@
   <project name="strconv" path="godeps/src/github.com/tdewolff/strconv" remote="couchbasedeps" revision="9b189f5be77f33c46776f24dbddb2a7ab32af214" />
   <project groups="kv" name="subjson" revision="e7ba1a03a2e6d51fabfa8873af47880a16c7619c" upstream="master" />
   <project groups="solaris,notdefault" name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="9d4e42a20653790449273b3c85e67d6d8bae6e2e" />
-  <project name="testrunner" revision="d3c7f50b89c203bb996d6818e180bf97d9ce8694" upstream="master" />
+  <project name="testrunner" revision="a8f12800a564edc608d54169417b62705d9981a1" upstream="master" />
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15" />
   <project groups="kv" name="tlm" revision="5e9d8f7eeb6f38f7b4840b710bc2fb3226add8aa" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile" />
