@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1669" />
+    <annotation name="BLD_NUM" value="1670" />
     <annotation name="VERSION" value="5.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -42,7 +42,7 @@
   <project name="cznic-b" path="godeps/src/github.com/cznic/b" remote="couchbasedeps" revision="b96e30f1b7bd34b0b9d8760798d67eca83d7f09e" />
   <project name="docloader" path="goproj/src/github.com/couchbase/docloader" revision="4c9ccdba50bf0ea83f72676cb5884fb74f9a4a2b" upstream="master" />
   <project name="dparval" path="godeps/src/github.com/couchbase/dparval" revision="9def03782da875a2477c05bf64985db3f19f59ae" upstream="master" />
-  <project groups="kv" name="ep-engine" revision="bf1087463a5973900a038f1a6e52a4a5c13dca45" upstream="master" />
+  <project groups="kv" name="ep-engine" revision="e4c718e92cb817a7ee349e8d42764404dfe798ac" upstream="master" />
   <project name="flatbuffers" path="godeps/src/github.com/google/flatbuffers" remote="couchbasedeps" revision="1a8968225130caeddd16e227678e6f8af1926303" />
   <project groups="kv" name="forestdb" revision="833310025e3f230b2531678598d89ebbaa7c5773" upstream="master" />
   <project name="geocouch" revision="e41c993a9c2f915aa72dc982d4ac69b3c46bb7e9" upstream="master" />
