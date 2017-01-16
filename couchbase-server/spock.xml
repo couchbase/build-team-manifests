@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1678" />
+    <annotation name="BLD_NUM" value="1679" />
     <annotation name="VERSION" value="5.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -89,7 +89,7 @@
   <project groups="kv" name="phosphor" revision="c0c7e64435d8ee862c6c33ebd8f77a9e99ad45b1" upstream="master" />
   <project groups="kv" name="platform" revision="0f526326771430ea91c40fde7280db6c711d75d2" upstream="master" />
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c" />
-  <project name="query" path="goproj/src/github.com/couchbase/query" revision="540df9465d1884fa98899e0766fa96dceef034e9" upstream="master" />
+  <project name="query" path="goproj/src/github.com/couchbase/query" revision="2c1e8816fab93346d3680c4130ede496f420b8d6" upstream="master" />
   <project name="query-ui" revision="25931199badeb743a3299ce16fbff63fda951c27" upstream="master" />
   <project name="retriever" path="godeps/src/github.com/couchbase/retriever" revision="e3419088e4d3b4fe3aad3b364fdbe9a154f85f17" upstream="master" />
   <project name="roaring" path="godeps/src/github.com/RoaringBitmap/roaring" remote="couchbasedeps" revision="dd6b41e153cc91db0440d4155626f8e2c2f298a4" />
