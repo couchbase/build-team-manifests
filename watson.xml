@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="ccd3ae52bbf0ade5fd59adcedba2b8cbbd16cd9b" upstream="watson">
     <annotation name="VERSION" value="4.6.2"/>
-    <annotation name="BLD_NUM" value="3875"/>
+    <annotation name="BLD_NUM" value="3876"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -49,7 +49,7 @@
   <project name="go-zookeeper" path="godeps/src/github.com/samuel/go-zookeeper" remote="couchbasedeps" revision="fa6674abf3f4580b946a01bf7a1ce4ba8766205b"/>
   <project name="go_json" path="godeps/src/github.com/couchbase/go_json" revision="f5a178ab380eb9a1911cf9c45b4159115b564169" upstream="watson"/>
   <project name="go_n1ql" path="godeps/src/github.com/couchbase/go_n1ql" revision="6cf4e348b127e21f56e53eb8c3faaea56afdc588"/>
-  <project name="gocb" path="godeps/src/github.com/couchbase/gocb" revision="d5b1a13c1e81f1255ca8155007b470db37ddeb25"/>
+  <project name="gocb" path="godeps/src/github.com/couchbase/gocb" revision="66897bead1888d05577cb9dabe43217c3d205a5d"/>
   <project name="godbc" path="godeps/src/github.com/couchbase/godbc" revision="adc62033c392ca9df8b5b42c0dda237576b39f9f"/>
   <project name="goforestdb" path="godeps/src/github.com/couchbase/goforestdb" revision="0b501227de0e8c55d99ed14e900eea1a1dbaf899"/>
   <project name="gojson" path="godeps/src/github.com/dustin/gojson" remote="couchbasedeps" revision="af16e0e771e2ed110f2785564ae33931de8829e4"/>
