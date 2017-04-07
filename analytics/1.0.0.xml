@@ -13,7 +13,7 @@
     <annotation name="RELEASE" value="1.0.0" />
     <annotation name="PRODUCT_BRANCH" value="1.0.0-DP2" />
     <annotation name="PRODUCT" value="analytics" />
-    <annotation name="BLD_NUM" value="710" />
+    <annotation name="BLD_NUM" value="711" />
     <annotation name="VERSION" value="1.0.0" />
   </project>
 </manifest>
