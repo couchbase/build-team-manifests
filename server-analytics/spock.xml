@@ -13,7 +13,7 @@
   
   <project name="analytics-dcp-client" path="analytics/asterixdb/asterix-opt/java-dcp-client" remote="couchbaselabs" revision="58895a8bd20cc6182b8b18b78125b6d1196125a9" upstream="master" />
   <project name="analytics_ns_server" path="ns_server" remote="couchbaselabs" revision="382abc277ace393f38513b4391d6db4aa09b599a" upstream="master" />
-  <project name="asterix-opt" path="analytics/asterixdb/asterix-opt" remote="couchbaselabs-priv" revision="6442d3768c513f2697c62c905e37147a693fed2a" upstream="master">
+  <project name="asterix-opt" path="analytics/asterixdb/asterix-opt" remote="couchbaselabs-priv" revision="cda8a0d86f4ab1f87e819e4eeae3ae49979b517b" upstream="master">
     <copyfile dest="analytics/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
   <project name="asterixdb" path="analytics" remote="apache" revision="b3982c733a2455cde2bca14d87e9bc1579a31039" upstream="master" />
@@ -31,7 +31,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="server-analytics" />
-    <annotation name="BLD_NUM" value="418" />
+    <annotation name="BLD_NUM" value="419" />
     <annotation name="VERSION" value="5.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
