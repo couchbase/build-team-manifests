@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="c191ec0abc15cbad98ee1427bfa619aaa3e73c5c" upstream="watson">
     <annotation name="VERSION" value="4.6.2"/>
-    <annotation name="BLD_NUM" value="4022"/>
+    <annotation name="BLD_NUM" value="4023"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -61,7 +61,7 @@
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273"/>
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846"/>
   <project name="goutils" path="godeps/src/github.com/couchbase/goutils" revision="5823a0cbaaa9008406021dc5daf80125ea30bba6"/>
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="9967307c6277467d558bfc31e3387cdc77509998" upstream="watson"/>
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="931ba4dc5acdd7a753165932415d7bef17595951" upstream="watson"/>
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70"/>
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="e565bca3d0b852216ba2e0584d370b29a173d20f" upstream="watson"/>
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b"/>
