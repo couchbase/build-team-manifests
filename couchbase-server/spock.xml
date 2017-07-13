@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="3300" />
+    <annotation name="BLD_NUM" value="3301" />
     <annotation name="VERSION" value="5.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -72,7 +72,7 @@
   <project name="goskiplist" path="godeps/src/github.com/ryszard/goskiplist" remote="couchbasedeps" revision="2dfbae5fcf46374f166f8969cb07e167f1be6273" />
   <project name="gosnappy" path="godeps/src/github.com/syndtr/gosnappy" remote="couchbasedeps" revision="156a073208e131d7d2e212cb749feae7c339e846" />
   <project name="goutils" path="godeps/src/github.com/couchbase/goutils" revision="7a02f3df0ea980574216f469c192985a2083b957" upstream="master" />
-  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="396268b023b1224f9eb5b22d427364f33e63bd33" upstream="master" />
+  <project name="goxdcr" path="goproj/src/github.com/couchbase/goxdcr" revision="e37df3df07cafbb0612e9d01088c9466a5bc63fb" upstream="master" />
   <project name="gtreap" path="godeps/src/github.com/steveyen/gtreap" remote="couchbasedeps" revision="0abe01ef9be25c4aedc174758ec2d917314d6d70" />
   <project name="httprouter" path="godeps/src/github.com/julienschmidt/httprouter" remote="couchbasedeps" revision="975b5c4c7c21c0e3d2764200bf2aa8e34657ae6e" />
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="5dd53f6217985a44ab4f73356f9770f478596797" upstream="master" />
