@@ -8,7 +8,7 @@
   
   <default remote="couchbase" revision="master"/>
   
-  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="16683c1bb029a72627f62fc1cc7e2f02b5b6ff76" upstream="4.6.3"/>
+  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="7aa413c0b9288f5b0e213cd3f23776cba454dc46" upstream="4.6.3"/>
   <project name="bitset" path="godeps/src/github.com/willf/bitset" remote="couchbasedeps" revision="28a4168144bb8ac95454e1f51c84da1933681ad4"/>
   <project name="blance" path="godeps/src/github.com/couchbase/blance" revision="5ce14d13954e04262b7eabfc6978776a4018402b"/>
   <project name="bleve" path="godeps/src/github.com/blevesearch/bleve" remote="blevesearch" revision="f531835d5c212ee5f95c49d2debc28e65e6d1693"/>
@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="c191ec0abc15cbad98ee1427bfa619aaa3e73c5c" upstream="watson">
     <annotation name="VERSION" value="4.6.2"/>
-    <annotation name="BLD_NUM" value="4084"/>
+    <annotation name="BLD_NUM" value="4085"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
