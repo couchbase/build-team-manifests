@@ -12,11 +12,11 @@
   
   <project name="BLIP-Cpp" path="couchbase-lite-core/vendor/BLIP-Cpp" remote="couchbaselabs" revision="88de073361f64f47642d787ddbda43fbe3e510be" />
   <project name="SQLiteCpp" path="couchbase-lite-core/vendor/SQLiteCpp" remote="couchbasedeps" revision="2a688a9aee64c4be463524de75da7750709e1478" />
-  <project name="build" path="cbbuild" revision="1b6d64e60a15e187215b53c87e8c28157c373fad" upstream="master">
+  <project name="build" path="cbbuild" revision="f0ec8f513fe81f8e5241a891b7b90cc0ea62852b" upstream="master">
     <annotation name="RELEASE" value="master" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-lite-core" />
-    <annotation name="BLD_NUM" value="185" />
+    <annotation name="BLD_NUM" value="186" />
     <copyfile dest="CMakeLists.txt" src="scripts/jenkins/lite-core/CMakeLists.txt" />
     <annotation name="VERSION" value="2.0.0" />
   </project>
