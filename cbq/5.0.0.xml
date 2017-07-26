@@ -5,11 +5,11 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="build" path="cbbuild" revision="43e8b41c774554efaf1421b92920e5d874b1e424" upstream="master">
+  <project name="build" path="cbbuild" revision="1b6d64e60a15e187215b53c87e8c28157c373fad" upstream="master">
     <annotation name="RELEASE" value="5.0.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="cbq" />
-    <annotation name="BLD_NUM" value="549" />
+    <annotation name="BLD_NUM" value="550" />
     <annotation name="VERSION" value="5.0.0" />
   </project>
   <project name="crypto" path="godeps/src/golang.org/x/crypto" remote="couchbasedeps" revision="f23ba3a5ee43012fcb4b92e1a2a405a92554f4f2" />
