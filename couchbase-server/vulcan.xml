@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="vulcan" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1106" />
+    <annotation name="BLD_NUM" value="1107" />
     <annotation name="VERSION" value="5.1.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -118,5 +118,5 @@
     <copyfile dest=".clang-format" src="dot-clang-format" />
   </project>
   <project name="ts" path="godeps/src/github.com/olekukonko/ts" remote="couchbasedeps" revision="ecf753e7c962639ab5a1fb46f7da627d4c0a04b8" />
-  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="46aa6131484f96e7572e71041aa4b96a4b384d66" upstream="master" />
+  <project groups="notdefault,packaging" name="voltron" remote="couchbase-priv" revision="34a6913a5f767f614cbff1f231ae5162562b0842" upstream="master" />
 </manifest>
