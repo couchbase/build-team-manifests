@@ -11,7 +11,7 @@
   
   <project name="analytics-dcp-client" path="analytics/asterixdb/asterix-opt/java-dcp-client" remote="couchbaselabs" revision="59466644e1f848b3870401ec6def097006a72200" upstream="master" />
   <project name="analytics_ns_server" path="ns_server" remote="couchbaselabs" revision="5c47456af8bd36fe09a5f72130d73f24b4f85ec1" upstream="master" />
-  <project name="asterix-opt" path="analytics/asterixdb/asterix-opt" remote="couchbaselabs-priv" revision="497b01119f771ceae4d85e6c85ecaaac53f1224d" upstream="master">
+  <project name="asterix-opt" path="analytics/asterixdb/asterix-opt" remote="couchbaselabs-priv" revision="4bab42cc433474cb87a6338c1347b36b41a84851" upstream="master">
     <copyfile dest="analytics/CMakeLists.txt" src="CMakeLists.txt" />
   </project>
   <project name="asterixdb" path="analytics" remote="asterixdb" revision="016603909756fef20f4504d4645adea60a9467e4" upstream="master" />
@@ -28,7 +28,7 @@
     <annotation name="RELEASE" value="spock" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="server-analytics" />
-    <annotation name="BLD_NUM" value="693" />
+    <annotation name="BLD_NUM" value="694" />
     <annotation name="VERSION" value="5.0.0" />
   </project>
   <project name="cbas" path="goproj/src/github.com/couchbaselabs/cbas" remote="couchbaselabs" revision="8d0bb38e55317f3174f13950ffab0620baa1d2bb" upstream="master" />
