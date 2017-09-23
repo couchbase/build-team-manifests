@@ -16,7 +16,7 @@
     <annotation name="RELEASE" value="master" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-lite-core" />
-    <annotation name="BLD_NUM" value="332" />
+    <annotation name="BLD_NUM" value="333" />
     <copyfile dest="CMakeLists.txt" src="scripts/jenkins/lite-core/CMakeLists.txt" />
     <annotation name="VERSION" value="2.0.0" />
   </project>
