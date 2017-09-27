@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="master" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="695" />
+    <annotation name="BLD_NUM" value="696" />
     <annotation name="VERSION" value="0.0.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -112,7 +112,7 @@
   <project groups="solaris,notdefault" name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="9d4e42a20653790449273b3c85e67d6d8bae6e2e" />
   <project name="testrunner" revision="73f529b0c8cd83bb932b67ac725dc100ac0051e1" upstream="master" />
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="601048ad6acbab6cedd582db09b8c4839ff25b15" />
-  <project groups="kv" name="tlm" revision="e69a22ba2744edfe9c1baf3696a60160df81fe13" upstream="master">
+  <project groups="kv" name="tlm" revision="b046eafe4371c5f2b6ebb3b4815085fb91ce453e" upstream="master">
     <copyfile dest="GNUmakefile" src="GNUmakefile" />
     <copyfile dest="Makefile" src="Makefile" />
     <copyfile dest="CMakeLists.txt" src="CMakeLists.txt" />
