@@ -15,7 +15,7 @@
     <annotation name="RELEASE" value="master" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-lite-net" />
-    <annotation name="BLD_NUM" value="370" />
+    <annotation name="BLD_NUM" value="371" />
     <annotation name="VERSION" value="2.0.0" />
   </project>
   <project name="civetweb" path="couchbase-lite-net/vendor/couchbase-lite-core/vendor/civetweb" remote="couchbasedeps" revision="4c5e6815e527522a154a7a4ccf97d849657ffc68" />
