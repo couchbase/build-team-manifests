@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="vulcan" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1473" />
+    <annotation name="BLD_NUM" value="1474" />
     <annotation name="VERSION" value="5.1.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -82,7 +82,7 @@
   <project name="indexing" path="goproj/src/github.com/couchbase/indexing" revision="c14cd30339d78d5fcc3f360d29b3e9e81f2cf8fa" upstream="master" />
   <project name="json-iterator-go" path="godeps/src/github.com/json-iterator/go" remote="couchbasedeps" revision="f7279a603edee96fe7764d3de9c6ff8cf9970994" />
   <project name="jsonx" path="godeps/src/gopkg.in/couchbaselabs/jsonx.v1" remote="couchbaselabs" revision="5b7baa20429a46a5543ee259664cc86502738cad" upstream="master" />
-  <project groups="kv" name="kv_engine" revision="efeb1a12bde605b7516b7fa790e14b95a9807bdc" upstream="master" />
+  <project groups="kv" name="kv_engine" revision="1022eaf49460e43ebfc4af354f040d7d59324f89" upstream="master" />
   <project name="levigo" path="godeps/src/github.com/jmhodges/levigo" remote="couchbasedeps" revision="1ddad808d437abb2b8a55a950ec2616caa88969b" />
   <project name="liner" path="godeps/src/github.com/peterh/liner" remote="couchbasedeps" revision="ad1edfd30321d8f006ccf05f1e0524adeb943060" />
   <project name="liner" path="godeps/src/github.com/sbinet/liner" remote="couchbasedeps" revision="d9335eee40a45a4f5d74524c90040d6fe6013d50" />
