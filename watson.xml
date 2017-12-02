@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="36fd32fc7ecda0fe3b859ae772dcebe85c22b9a1" upstream="watson">
     <annotation name="VERSION" value="4.6.5"/>
-    <annotation name="BLD_NUM" value="4709"/>
+    <annotation name="BLD_NUM" value="4710"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
@@ -77,7 +77,7 @@
   <project name="npipe" path="godeps/src/github.com/natefinch/npipe" remote="couchbasedeps" revision="272c8150302e83f23d32a355364578c9c13ab20f"/>
   <project name="ns_server" revision="741587598fbd3d295698bdfa66941bb3c1257a44" upstream="watson"/>
   <project name="parse" path="godeps/src/github.com/tdewolff/parse" remote="couchbasedeps" revision="0334a869253aca4b3a10c56c3f3139b394aec3a9"/>
-  <project groups="kv" name="platform" revision="a80097d53c779b548d8c78b0a1886b8d44591b23" upstream="watson"/>
+  <project groups="kv" name="platform" revision="55580f6e393430931f7cb5d89883308e41ed476f" upstream="watson"/>
   <project name="protobuf" path="godeps/src/github.com/golang/protobuf" remote="couchbasedeps" revision="655cdfa588ea190e901bc5590e65d5621688847c"/>
   <project name="query" path="goproj/src/github.com/couchbase/query" revision="3f6fcc3c021ce7c74dbfb1525ff63c9db938b662" upstream="watson"/>
   <project name="query-ui" revision="0f706edd25035d1fd7c041640abf0f7079e02788" upstream="watson"/>
