@@ -7,7 +7,7 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="3d8d496bcad4e05904cbe5ea18f5d7d7e1874004" upstream="master" />
+  <project groups="notdefault,enterprise" name="backup" path="goproj/src/github.com/couchbase/backup" remote="couchbase-priv" revision="73134a2aa6206d5383ad2717e01b8c06f23ae05e" upstream="master" />
   <project groups="kv" name="benchmark" remote="couchbasedeps" revision="9e3465560240ffb242b50a47cb7f19251a12ee42" />
   <project name="bitset" path="godeps/src/github.com/willf/bitset" remote="couchbasedeps" revision="28a4168144bb8ac95454e1f51c84da1933681ad4" />
   <project name="blance" path="godeps/src/github.com/couchbase/blance" revision="5cd1345cca3ed72f1e63d41d622fcda73e63fea8" upstream="master" />
@@ -20,7 +20,7 @@
     <annotation name="RELEASE" value="vulcan" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-server" />
-    <annotation name="BLD_NUM" value="1501" />
+    <annotation name="BLD_NUM" value="1502" />
     <annotation name="VERSION" value="5.1.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
