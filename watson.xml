@@ -18,7 +18,7 @@
   <project name="buffer" path="godeps/src/github.com/tdewolff/buffer" remote="couchbasedeps" revision="43cef5ba7b6ce99cc410632dad46cf1c6c97026e"/>
   <project groups="notdefault,build" name="build" path="cbbuild" revision="36fd32fc7ecda0fe3b859ae772dcebe85c22b9a1" upstream="watson">
     <annotation name="VERSION" value="4.6.5"/>
-    <annotation name="BLD_NUM" value="4713"/>
+    <annotation name="BLD_NUM" value="4714"/>
     <annotation name="RELEASE" value="@RELEASE@"/>
     <annotation name="EDITION" value="@EDITION@"/>
   </project>
