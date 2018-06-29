@@ -22,7 +22,7 @@
     <annotation name="RELEASE" value="2.5.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="22" />
+    <annotation name="BLD_NUM" value="23" />
     <annotation name="VERSION" value="2.5.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
