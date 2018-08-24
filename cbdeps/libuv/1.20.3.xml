@@ -8,7 +8,7 @@
     <annotation name="RELEASE" value="1.20.3" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="cbdeps/libuv" />
-    <annotation name="BLD_NUM" value="13" />
+    <annotation name="BLD_NUM" value="14" />
     <annotation name="VERSION" value="1.20.3" />
   </project>
   <project name="build-tools" revision="7cb17ba7790ff04cfc1c61c37cd509662acf8da6" upstream="master" />
