@@ -14,16 +14,16 @@
   
   <project name="BLIP-Cpp" path="couchbase-lite-core/vendor/BLIP-Cpp" remote="couchbaselabs" revision="472b9a3c0785fe8540197b919c2f74cac1978f4b" />
   <project name="SQLiteCpp" path="couchbase-lite-core/vendor/SQLiteCpp" remote="couchbasedeps" revision="fcf58aa19eb4b944a781b01489378d8ec9b862e9" />
-  <project name="build" path="cbbuild" revision="6477ea8063f006979a893c64cf07aaf62e9f722b" upstream="master">
+  <project name="build" path="cbbuild" revision="b021e5c1fa002b6b943f84419c29e7dc386f41a7" upstream="master">
     <annotation name="RELEASE" value="2.5.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-lite-core" />
-    <annotation name="BLD_NUM" value="1447" />
+    <annotation name="BLD_NUM" value="1448" />
     <copyfile dest="CMakeLists.txt" src="scripts/jenkins/lite-core/CMakeLists.txt" />
     <annotation name="VERSION" value="2.5.0" />
   </project>
   <project name="civetweb" path="couchbase-lite-core/vendor/civetweb" remote="couchbasedeps" revision="4341c169a789b917a4fe1cdd24f55e507d855ff5" />
-  <project name="couchbase-lite-core" revision="68ea0f3425e8634d1f53872913b72c87b666f6db" upstream="master" />
+  <project name="couchbase-lite-core" revision="b3aba9c711c76c0c74d7e63a9e0444cf6c8c6baf" upstream="master" />
   <project groups="notdefault,enterprise" name="couchbase-lite-core-EE" remote="couchbase-priv" revision="559a85317104f30a2b89ded09f597cc1cd1dd2ab" upstream="master" />
   <project name="couchbase-lite-core.wiki" path="couchbase-lite-core/wiki" revision="9dd7deb1b42253ea3f50f447718ebf5eb2387394" />
   <project name="fleece" path="couchbase-lite-core/vendor/fleece" remote="couchbaselabs" revision="d837995b2caa2eba5efc7f225f2788f3c016e87c" />
