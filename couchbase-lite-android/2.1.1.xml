@@ -18,12 +18,12 @@
     <annotation name="RELEASE" value="2.1.1" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="couchbase-lite-android" />
-    <annotation name="BLD_NUM" value="8" />
+    <annotation name="BLD_NUM" value="9" />
     <annotation name="VERSION" value="2.1.1" />
   </project>
   <project name="civetweb" path="couchbase-lite-android-ee/libs/couchbase-lite-android/libs/couchbase-lite-core/vendor/civetweb" remote="couchbasedeps" revision="4341c169a789b917a4fe1cdd24f55e507d855ff5" />
-  <project name="couchbase-lite-android" path="couchbase-lite-android-ee/libs/couchbase-lite-android" revision="949895a238e075d7e659157ba5a7a78c1e369601" upstream="release/2.1.x" />
-  <project groups="notdefault,enterprise" name="couchbase-lite-android-ee" remote="couchbaselabs-priv" revision="a38462c4ffecc1d4230c373e05059cff827b9e31" upstream="release/2.1.x" />
+  <project name="couchbase-lite-android" path="couchbase-lite-android-ee/libs/couchbase-lite-android" revision="2922c2daa63cf554d15367add7d2447010f39224" upstream="release/2.1.x" />
+  <project groups="notdefault,enterprise" name="couchbase-lite-android-ee" remote="couchbaselabs-priv" revision="cb3c4960e88ec648bdd11a9bdfd8b7a0b4a4b62e" upstream="release/2.1.x" />
   <project name="couchbase-lite-core" path="couchbase-lite-android-ee/libs/couchbase-lite-android/libs/couchbase-lite-core" revision="de5609279cc2118197cf612efecf7f8e85b17e0b" />
   <project groups="notdefault,enterprise" name="couchbase-lite-core-EE" path="couchbase-lite-android-ee/libs/couchbase-lite-core-EE" remote="couchbase-priv" revision="e7e91b8a1a349ea6ef9ca8f933a2e350a34ed9b7" />
   <project name="couchbase-lite-core.wiki" path="couchbase-lite-android-ee/libs/couchbase-lite-android/libs/couchbase-lite-core/wiki" revision="10f890e990f8ae260170ef32e9af2c9dd8de2e6b" />
