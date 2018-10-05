@@ -9,11 +9,11 @@
   
   <project groups="notdefault,sg-accel" name="blance" path="godeps/src/github.com/couchbase/blance" revision="3d39b57188c372649beedd5c13c9003156d5a055" />
   <project name="build" path="cbbuild" revision="51cdfb4ae316289e072ca631cc14eb27b671cc15" upstream="master">
-    <annotation name="GO_VERSION" value="1.10.4" />
+    <annotation name="GO_VERSION" value="1.11.1" />
     <annotation name="RELEASE" value="2.5.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="86" />
+    <annotation name="BLD_NUM" value="87" />
     <annotation name="VERSION" value="2.5.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -57,7 +57,7 @@
   <project name="sg-replicate" path="godeps/src/github.com/couchbaselabs/sg-replicate" remote="couchbaselabs" revision="39e5f5f92ee5bf24b8eb1b998b853843ddb41e7f" />
   <project name="sourcemap" path="godeps/src/gopkg.in/sourcemap.v1" remote="couchbasedeps" revision="6e83acea0053641eff084973fee085f0c193c61a" />
   <project groups="notdefault,sg-accel" name="sync-gateway-accel" path="godeps/src/github.com/couchbaselabs/sync-gateway-accel" remote="couchbaselabs_private" revision="74bf43222348706c6bae5825846cec0b2326d6fd" />
-  <project name="sync_gateway" path="godeps/src/github.com/couchbase/sync_gateway" revision="44695cffbcfb8fef33656395861e015977c34d7d" upstream="master" />
+  <project name="sync_gateway" path="godeps/src/github.com/couchbase/sync_gateway" revision="1c9c537acf660e499b564e19c48c8f9fc9390765" upstream="master" />
   <project name="sync_gateway_admin_ui" path="godeps/src/github.com/couchbaselabs/sync_gateway_admin_ui" remote="couchbaselabs" revision="93c74bac9ddc2979ab895a37087c225c998b03bf" />
   <project name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="9d4e42a20653790449273b3c85e67d6d8bae6e2e" />
   <project name="text" path="godeps/src/golang.org/x/text" remote="couchbasedeps" revision="bd91bbf73e9a4a801adbfb97133c992678533126" />
