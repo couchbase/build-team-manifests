@@ -9,11 +9,11 @@
   
   <project groups="notdefault,sg-accel" name="blance" path="godeps/src/github.com/couchbase/blance" revision="3d39b57188c372649beedd5c13c9003156d5a055" />
   <project name="build" path="cbbuild" revision="b859b6ebf7c1a1e816803c81c2cd5a9bdbbb2065" upstream="master">
-    <annotation name="GO_VERSION" value="1.11.2" />
+    <annotation name="GO_VERSION" value="1.11.5" />
     <annotation name="RELEASE" value="2.5.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="189" />
+    <annotation name="BLD_NUM" value="190" />
     <annotation name="VERSION" value="2.5.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
@@ -62,7 +62,7 @@
   <project name="sg-replicate" path="godeps/src/github.com/couchbaselabs/sg-replicate" remote="couchbaselabs" revision="65a9de96d944d83b64dff9d8753fa46e58b58236" />
   <project name="sourcemap" path="godeps/src/gopkg.in/sourcemap.v1" remote="couchbasedeps" revision="6e83acea0053641eff084973fee085f0c193c61a" />
   <project groups="notdefault,sg-accel" name="sync-gateway-accel" path="godeps/src/github.com/couchbaselabs/sync-gateway-accel" remote="couchbaselabs_private" revision="666ae051a753a32b6a3b8369dfb5df54364620be" />
-  <project name="sync_gateway" path="godeps/src/github.com/couchbase/sync_gateway" revision="8c76aa62b69965778dffcbb774d6850129463f7a" upstream="master" />
+  <project name="sync_gateway" path="godeps/src/github.com/couchbase/sync_gateway" revision="23ce48b89c3730aac883e3dcfdb3eb37e5c0b8fb" upstream="master" />
   <project name="sync_gateway_admin_ui" path="godeps/src/github.com/couchbaselabs/sync_gateway_admin_ui" remote="couchbaselabs" revision="93c74bac9ddc2979ab895a37087c225c998b03bf" />
   <project name="sys" path="godeps/src/golang.org/x/sys" remote="couchbasedeps" revision="98c5dad5d1a0e8a73845ecc8897d0bd56586511d" upstream="release-branch.go1.11" />
   <project name="testify" path="godeps/src/github.com/stretchr/testify" remote="couchbasedeps" revision="04af85275a5c7ac09d16bb3b9b2e751ed45154e5" />
