@@ -8,12 +8,12 @@
   <default remote="couchbase" revision="master" />
   
   <project groups="notdefault,sg-accel" name="blance" path="godeps/src/github.com/couchbase/blance" revision="3d39b57188c372649beedd5c13c9003156d5a055" />
-  <project name="build" path="cbbuild" revision="034c46de29e52010dd69666170fa2c098d1a68ac" upstream="master">
+  <project name="build" path="cbbuild" revision="9428155b5037b182871aefb592812fb5b1556741" upstream="master">
     <annotation name="GO_VERSION" value="1.11.5" />
     <annotation name="RELEASE" value="2.5.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="240" />
+    <annotation name="BLD_NUM" value="241" />
     <annotation name="VERSION" value="2.5.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
