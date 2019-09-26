@@ -7,12 +7,12 @@
   
   <default remote="couchbase" revision="master" />
   
-  <project name="build" path="cbbuild" revision="292609e21b9f2e8612af675a4c9a11cbcf3d43e5" upstream="master">
+  <project name="build" path="cbbuild" revision="f54060f093a7844a538278d37904845a80b74947" upstream="master">
     <annotation name="GO_VERSION" value="1.12.9" />
     <annotation name="RELEASE" value="2.7.0" />
     <annotation name="PRODUCT_BRANCH" value="master" />
     <annotation name="PRODUCT" value="sync_gateway" />
-    <annotation name="BLD_NUM" value="44" />
+    <annotation name="BLD_NUM" value="45" />
     <annotation name="VERSION" value="2.7.0" />
     <annotation name="BLD_NUM" value="@BLD_NUM@" />
     <annotation name="RELEASE" value="@RELEASE@" />
